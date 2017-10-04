@@ -1,0 +1,15 @@
+{
+  "name": "ona-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:martgnz/ona-scraper.git",
+  "author": "Martín González <m@martingonzalez.net>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "d3": "^4.11.0",
+    "jsdom": "^11.3.0"
+  }
+}
