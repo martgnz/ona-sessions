@@ -11,6 +11,7 @@ const ScrapeONA08 = function(url, edition) {
       .set("content")
       .filter("node():not(:contains(' '))")
       .data(d => {
+        d.edition = edition;
         d.content = d.content.split(/\n/);
         d.session = d.content[1];
         d.hours = [d.content[0].split("-")[0], d.content[0].split("-")[1]];
