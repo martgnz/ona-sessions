@@ -8,6 +8,7 @@ function scrapeONA(url, edition) {
     osmosis
       .get(url)
       .find(".session-list a")
+      .set({ link: "@href" })
       .follow("@href")
       .find(".entry-title")
       .set("session")
@@ -35,12 +36,12 @@ function scrapeONA(url, edition) {
 
 scrapeONA("https://ona17.journalists.org/sessions/", "2017").then(data =>
   fs.writeFile("data/ona17.json", JSON.stringify(data), function(err) {
-    console.log("File successfully written 👌");
+    console.log("ONA17 successfully written 👌");
   })
 );
 
 scrapeONA("https://ona16.journalists.org/sessions/", "2016").then(data =>
   fs.writeFile("data/ona16.json", JSON.stringify(data), function(err) {
-    console.log("File successfully written 👌");
+    console.log("ONA16 successfully written 👌");
   })
 );

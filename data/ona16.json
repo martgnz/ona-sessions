@@ -1,5 +1,17 @@
 [
   {
+    "link": "https://ona16.journalists.org/sessions/firsttimerorientation/",
+    "session": "You’re #1! First-Timer Breakfast and Orientation",
+    "track": "Career Building Track",
+    "date": "Thursday - 7:15 AM - 8:45 AM",
+    "location": "Mineral Rooms B-G",
+    "hashtag": "#1stONA",
+    "edition": "2016",
+    "day": "Thursday",
+    "hours": ["7:15 AM", "8:45 AM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/sponsoredundefeated/",
     "session":
       "[RSVP] Building the Undefeated: An Insider’s Look At the First Six Months of ESPN’s New Vertical [Sponsored]",
     "track": "Business + Revenue Track",
@@ -11,47 +23,7 @@
     "hours": ["6:30 PM", "8:00 PM"]
   },
   {
-    "session": "You’re #1! First-Timer Breakfast and Orientation",
-    "track": "Career Building Track",
-    "date": "Thursday - 7:15 AM - 8:45 AM",
-    "location": "Mineral Rooms B-G",
-    "hashtag": "#1stONA",
-    "edition": "2016",
-    "day": "Thursday",
-    "hours": ["7:15 AM", "8:45 AM"]
-  },
-  {
-    "session": ".news: Is Brand Really a Dirty Word? [Sponsored]",
-    "track": "Career Building Track",
-    "date": "Saturday - 4:00 PM - 5:00 PM",
-    "location": "Mineral Room B+C",
-    "hashtag": "#ONA16dotnews",
-    "edition": "2016",
-    "day": "Saturday",
-    "hours": ["4:00 PM", "5:00 PM"]
-  },
-  {
-    "session": "ONA16 Lightning Talks",
-    "track": "Newsgathering Tools + Techniques Track",
-    "date": "Saturday - 4:00 PM - 5:00 PM",
-    "location": "Centennial Ballroom F",
-    "hashtag": "#ONA16lt",
-    "edition": "2016",
-    "day": "Saturday",
-    "hours": ["4:00 PM", "5:00 PM"]
-  },
-  {
-    "session":
-      "[Unconference] Session 4 How Questions Saved My Life and Publishing Industry in Europe",
-    "track": "Newsgathering Tools + Techniques Track",
-    "date": "Saturday - 4:00 PM - 5:00 PM",
-    "location": "Mineral Rooms D+E",
-    "hashtag": "#ONAuncon",
-    "edition": "2016",
-    "day": "Saturday",
-    "hours": ["4:00 PM", "5:00 PM"]
-  },
-  {
+    "link": "https://ona16.journalists.org/sessions/unconference5/",
     "session":
       "[Unconference] Session 5 How to Solve Local Journalism's Money Problem",
     "track": "Newsgathering Tools + Techniques Track",
@@ -63,16 +35,29 @@
     "hours": ["4:00 PM", "5:00 PM"]
   },
   {
-    "session": "ONA Educators' Meetup",
-    "track": "Educators + students Track",
+    "link": "https://ona16.journalists.org/sessions/lightningtalks/",
+    "session": "ONA16 Lightning Talks",
+    "track": "Newsgathering Tools + Techniques Track",
     "date": "Saturday - 4:00 PM - 5:00 PM",
-    "location": "Centennial Ballroom H",
-    "hashtag": "#ONAedu",
+    "location": "Centennial Ballroom F",
+    "hashtag": "#ONA16lt",
     "edition": "2016",
     "day": "Saturday",
     "hours": ["4:00 PM", "5:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/sponsoredrightside/",
+    "session": ".news: Is Brand Really a Dirty Word? [Sponsored]",
+    "track": "Career Building Track",
+    "date": "Saturday - 4:00 PM - 5:00 PM",
+    "location": "Mineral Room B+C",
+    "hashtag": "#ONA16dotnews",
+    "edition": "2016",
+    "day": "Saturday",
+    "hours": ["4:00 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/unconference3/",
     "session":
       "[Unconference] Session 3 Engagement is Relational, Not Transactional",
     "track": "Newsgathering Tools + Techniques Track",
@@ -84,27 +69,7 @@
     "hours": ["4:00 PM", "5:00 PM"]
   },
   {
-    "session": "KEYNOTE: reported.ly: The Story of Digital Media",
-    "track": "Keynote Track",
-    "date": "Saturday - 2:30 PM - 3:30 PM",
-    "location": "Centennial Ballrooms D+E",
-    "hashtag": "#ONA16story",
-    "edition": "2016",
-    "day": "Saturday",
-    "hours": ["2:30 PM", "3:30 PM"]
-  },
-  {
-    "session":
-      "CNN Digital: Adventures in Multiplatform Storytelling [Sponsored]",
-    "track": "Newsgathering Tools + Techniques Track",
-    "date": "Saturday - 11:30 AM - 12:30 PM",
-    "location": "Mineral Room B+C",
-    "hashtag": "#ONA16CNN",
-    "edition": "2016",
-    "day": "Saturday",
-    "hours": ["11:30 AM", "12:30 PM"]
-  },
-  {
+    "link": "https://ona16.journalists.org/sessions/sponsoredchartbeat/",
     "session":
       "Chartbeat: Audience Building in the Age of Platforms [Sponsored]",
     "track": "Audience Engagement + Analytics Track",
@@ -116,16 +81,53 @@
     "hours": ["1:00 PM", "2:00 PM"]
   },
   {
-    "session": "Developing the Audience You Don’t Have",
-    "track": "Audience Engagement + Analytics Track",
+    "link": "https://ona16.journalists.org/sessions/unconference4/",
+    "session":
+      "[Unconference] Session 4 How Questions Saved My Life and Publishing Industry in Europe",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Saturday - 4:00 PM - 5:00 PM",
+    "location": "Mineral Rooms D+E",
+    "hashtag": "#ONAuncon",
+    "edition": "2016",
+    "day": "Saturday",
+    "hours": ["4:00 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/educatorsmeetup/",
+    "session": "ONA Educators' Meetup",
+    "track": "Educators + students Track",
+    "date": "Saturday - 4:00 PM - 5:00 PM",
+    "location": "Centennial Ballroom H",
+    "hashtag": "#ONAedu",
+    "edition": "2016",
+    "day": "Saturday",
+    "hours": ["4:00 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/closingkeynote/",
+    "session": "KEYNOTE: reported.ly: The Story of Digital Media",
+    "track": "Keynote Track",
+    "date": "Saturday - 2:30 PM - 3:30 PM",
+    "location": "Centennial Ballrooms D+E",
+    "hashtag": "#ONA16story",
+    "edition": "2016",
+    "day": "Saturday",
+    "hours": ["2:30 PM", "3:30 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/sponsoredcnndigital/",
+    "session":
+      "CNN Digital: Adventures in Multiplatform Storytelling [Sponsored]",
+    "track": "Newsgathering Tools + Techniques Track",
     "date": "Saturday - 11:30 AM - 12:30 PM",
-    "location": "Centennial Ballroom F",
-    "hashtag": "#ONA16aud",
+    "location": "Mineral Room B+C",
+    "hashtag": "#ONA16CNN",
     "edition": "2016",
     "day": "Saturday",
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/vrethics/",
     "session": "Journalistic Standards in a Virtual World",
     "track": "Audio, Photo + Video Track",
     "date": "Saturday - 11:30 AM - 12:30 PM",
@@ -136,16 +138,29 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
-    "session": "[Unconference] Session 1 Collaboration is a Messy Necessity",
+    "link": "https://ona16.journalists.org/sessions/auddev/",
+    "session": "Developing the Audience You Don’t Have",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Centennial Ballroom F",
+    "hashtag": "#ONA16aud",
+    "edition": "2016",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/unconference2/",
+    "session": "[Unconference] Session 2 Don’t Read the Comments, Sew Them!",
     "track": "Newsgathering Tools + Techniques Track",
     "date": "Saturday - 11:30 AM - 12:30 PM",
-    "location": "Mineral Rooms D+E",
+    "location": "Mineral Rooms F+G",
     "hashtag": "#ONAuncon",
     "edition": "2016",
     "day": "Saturday",
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/electionreportinglatinos/",
     "session":
       "Latinos and the 2016 Election: Reporting on Communities Regardless of Your Background",
     "track": "Educators + students Track",
@@ -157,6 +172,18 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/unconference1/",
+    "session": "[Unconference] Session 1 Collaboration is a Messy Necessity",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Mineral Rooms D+E",
+    "hashtag": "#ONAuncon",
+    "edition": "2016",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/hiringadeveloper/",
     "session": "Small Team, Small Budget? Yes, You Can Hire a Developer",
     "track": "Developer Tools + Tech Track",
     "date": "Saturday - 11:30 AM - 12:30 PM",
@@ -167,26 +194,7 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
-    "session": "[Unconference] Session 2 Don’t Read the Comments, Sew Them!",
-    "track": "Newsgathering Tools + Techniques Track",
-    "date": "Saturday - 11:30 AM - 12:30 PM",
-    "location": "Mineral Rooms F+G",
-    "hashtag": "#ONAuncon",
-    "edition": "2016",
-    "day": "Saturday",
-    "hours": ["11:30 AM", "12:30 PM"]
-  },
-  {
-    "session": "Dealing with Doxxing",
-    "track": "Career Building Track",
-    "date": "Saturday - 11:30 AM - 12:30 PM",
-    "location": "Centennial Ballroom B",
-    "hashtag": "#ONA16doxx",
-    "edition": "2016",
-    "day": "Saturday",
-    "hours": ["11:30 AM", "12:30 PM"]
-  },
-  {
+    "link": "https://ona16.journalists.org/sessions/distributednewsrooms/",
     "session": "Keeping it Together When the Newsroom is Everywhere",
     "track": "Business + Revenue Track",
     "date": "Saturday - 11:30 AM - 12:30 PM",
@@ -197,6 +205,18 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/dealingwithdoxxing/",
+    "session": "Dealing with Doxxing",
+    "track": "Career Building Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Centennial Ballroom B",
+    "hashtag": "#ONA16doxx",
+    "edition": "2016",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/sponsoredguardian/",
     "session":
       "Guardian US: Building Communities - How the Guardian Involves Its Readers in Its Journalism [Sponsored]",
     "track": "Audience Engagement + Analytics Track",
@@ -208,6 +228,7 @@
     "hours": ["10:00 AM", "11:00 AM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/vrtownhall/",
     "session": "VR Technical Town Hall",
     "track": "Audio, Video + Photo Track",
     "date": "Saturday - 10:00 AM - 11:00 AM",
@@ -218,6 +239,7 @@
     "hours": ["10:00 AM", "11:00 AM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/failfest/",
     "session":
       "Fail Fest 2016: I Failed, It Sucked, But Here’s How I Bounced Back",
     "track": "Career Building Track",
@@ -229,6 +251,7 @@
     "hours": ["10:00 AM", "11:00 AM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/10techtrends/",
     "session": "10 Tech Trends in Journalism",
     "track": "Newsgathering Tools + Techniques Track",
     "date": "Saturday - 10:00 AM - 11:00 AM",
@@ -239,6 +262,7 @@
     "hours": ["10:00 AM", "11:00 AM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/fridaykeynote/",
     "session":
       "KEYNOTE: Do We Need a Bechdel Test for News? How Inclusiveness and Credibility Can Expand Coverage",
     "track": "Keynote Track",
@@ -250,6 +274,18 @@
     "hours": ["5:00 PM", "6:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/vrtoolkit/",
+    "session": "Quick Guide to Your Basic 360 / VR Toolkit",
+    "track": "Audio, Video + Photo Track",
+    "date": "Friday - 3:30 PM - 4:30 PM",
+    "location": "Centennial Ballroom G",
+    "hashtag": "#ONA16VRtech",
+    "edition": "2016",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/sponsoredwibbitz/",
     "session":
       "Wibbitz: Video for Everyone: Give Your Entire Newsroom the Power of Automated Video [Sponsored]",
     "track": "Audio, Photo + Video Track",
@@ -261,26 +297,7 @@
     "hours": ["3:30 PM", "4:30 PM"]
   },
   {
-    "session": "Quick Guide to Your Basic 360 / VR Toolkit",
-    "track": "Audio, Video + Photo Track",
-    "date": "Friday - 3:30 PM - 4:30 PM",
-    "location": "Centennial Ballroom G",
-    "hashtag": "#ONA16VRtech",
-    "edition": "2016",
-    "day": "Friday",
-    "hours": ["3:30 PM", "4:30 PM"]
-  },
-  {
-    "session": "Engaging Audiences with Live “High Def” Journalism",
-    "track": "Audience Engagement + Analytics Track",
-    "date": "Friday - 3:30 PM - 4:30 PM",
-    "location": "Centennial Ballroom H",
-    "hashtag": "#ONA16highdef",
-    "edition": "2016",
-    "day": "Friday",
-    "hours": ["3:30 PM", "4:30 PM"]
-  },
-  {
+    "link": "https://ona16.journalists.org/sessions/electiononsocial/",
     "session":
       "The Election Will Not Be Televised: The 2016 Presidential Reality Show on Social",
     "track": "Audience Engagement + Analytics Track",
@@ -292,16 +309,18 @@
     "hours": ["3:30 PM", "4:30 PM"]
   },
   {
-    "session": "It’s Raining Bots",
+    "link": "https://ona16.journalists.org/sessions/liveeventengagement/",
+    "session": "Engaging Audiences with Live “High Def” Journalism",
     "track": "Audience Engagement + Analytics Track",
-    "date": "Friday - 2:00 PM - 3:00 PM",
-    "location": "Centennial Ballroom B",
-    "hashtag": "#rainingbots",
+    "date": "Friday - 3:30 PM - 4:30 PM",
+    "location": "Centennial Ballroom H",
+    "hashtag": "#ONA16highdef",
     "edition": "2016",
     "day": "Friday",
-    "hours": ["2:00 PM", "3:00 PM"]
+    "hours": ["3:30 PM", "4:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/vrunity/",
     "session": "VR Technical Workshop: Introduction to Unity",
     "track": "Audio, Video + Photo Track",
     "date": "Friday - 2:00 PM - 3:00 PM",
@@ -312,16 +331,18 @@
     "hours": ["2:00 PM", "3:00 PM"]
   },
   {
-    "session": "Local Newscasts: Adapt or Die?",
-    "track": "Audio, Photo + Video Track",
+    "link": "https://ona16.journalists.org/sessions/bots/",
+    "session": "It’s Raining Bots",
+    "track": "Audience Engagement + Analytics Track",
     "date": "Friday - 2:00 PM - 3:00 PM",
-    "location": "Centennial Ballroom C",
-    "hashtag": "#ONA16newscasts",
+    "location": "Centennial Ballroom B",
+    "hashtag": "#rainingbots",
     "edition": "2016",
     "day": "Friday",
     "hours": ["2:00 PM", "3:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/breakandmake/",
     "session": "The Break-It-And-Make-It Workshop!",
     "track": "Developer Tools + Tech Track",
     "date": "Friday - 2:00 PM - 4:30 PM",
@@ -332,6 +353,18 @@
     "hours": ["2:00 PM", "4:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/adaptinglocalnewscasts/",
+    "session": "Local Newscasts: Adapt or Die?",
+    "track": "Audio, Photo + Video Track",
+    "date": "Friday - 2:00 PM - 3:00 PM",
+    "location": "Centennial Ballroom C",
+    "hashtag": "#ONA16newscasts",
+    "edition": "2016",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/editorialpartnerships/",
     "session":
       "Editorial Partnerships for Business and Investigative Awesomeness",
     "track": "Business + Revenue Track",
@@ -343,6 +376,7 @@
     "hours": ["2:00 PM", "3:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/personalizedinteractives/",
     "session": "Fitting in the News: Creating Personalized Interactives",
     "track": "Educators + students Track",
     "date": "Friday - 2:00 PM - 3:00 PM",
@@ -353,6 +387,8 @@
     "hours": ["2:00 PM", "3:00 PM"]
   },
   {
+    "link":
+      "https://ona16.journalists.org/sessions/designingemotionalintelligence/",
     "session": "Designing More Emotionally Intelligent Digital Experiences",
     "track": "Mobile Tools + Design Track",
     "date": "Friday - 2:00 PM - 3:00 PM",
@@ -363,16 +399,8 @@
     "hours": ["2:00 PM", "3:00 PM"]
   },
   {
-    "session": "Leaving Your Recruitment Comfort Zone",
-    "track": "Career Building Track",
-    "date": "Friday - 2:00 PM - 4:30 PM",
-    "location": "Mineral Rooms D+E",
-    "hashtag": "#ONA16recruit",
-    "edition": "2016",
-    "day": "Friday",
-    "hours": ["2:00 PM", "4:30 PM"]
-  },
-  {
+    "link":
+      "https://ona16.journalists.org/sessions/computationalelectioncoverage/",
     "session":
       "Change Up Your 2016 Election Coverage. Create a Computational Campaign.",
     "track": "Newsgathering Tools + Techniques Track",
@@ -384,6 +412,19 @@
     "hours": ["2:00 PM", "3:00 PM"]
   },
   {
+    "link":
+      "https://ona16.journalists.org/sessions/diversityrecruitingworkshop/",
+    "session": "Leaving Your Recruitment Comfort Zone",
+    "track": "Career Building Track",
+    "date": "Friday - 2:00 PM - 4:30 PM",
+    "location": "Mineral Rooms D+E",
+    "hashtag": "#ONA16recruit",
+    "edition": "2016",
+    "day": "Friday",
+    "hours": ["2:00 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/sponsoredfacebooklive/",
     "session": "Facebook: Live Video for News [Sponsored]",
     "track": "Audio, Photo + Video Track",
     "date": "Friday - 1:00 PM - 2:00 PM",
@@ -394,17 +435,7 @@
     "hours": ["1:00 PM", "2:00 PM"]
   },
   {
-    "session":
-      "Knight Foundation: Inside the Guardian Mobile Innovation Lab and MIT’s Electome [Sponsored]",
-    "track": "Newsgathering Tools + Techniques Track",
-    "date": "Friday - 11:30 AM - 12:30 PM",
-    "location": "Mineral Room B+C",
-    "hashtag": "#ONA16Knight",
-    "edition": "2016",
-    "day": "Friday",
-    "hours": ["11:30 AM", "12:30 PM"]
-  },
-  {
+    "link": "https://ona16.journalists.org/sessions/sponsoredgoogle/",
     "session":
       "Google: Dialing Up on Mobile to Reach Readers and Push Performance [Sponsored]",
     "track": "Mobile Tools + Design Track",
@@ -416,6 +447,19 @@
     "hours": ["10:00 AM", "11:00 AM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/sponsoredknight/",
+    "session":
+      "Knight Foundation: Inside the Guardian Mobile Innovation Lab and MIT’s Electome [Sponsored]",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday - 11:30 AM - 12:30 PM",
+    "location": "Mineral Room B+C",
+    "hashtag": "#ONA16Knight",
+    "edition": "2016",
+    "day": "Friday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/tabletalksdevelopers/",
     "session": "Table Talks: Developer Tools + Tech",
     "track": "Developer Tools + Tech Track",
     "date": "Friday - 10:00 AM - 12:00 PM",
@@ -426,6 +470,7 @@
     "hours": ["10:00 AM", "12:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/tabletalksnewsgathering/",
     "session": "Table Talks: Newsgathering Tools + Techniques",
     "track": "Newsgathering Tools + Techniques Track",
     "date": "Friday - 10:00 AM - 12:00 PM",
@@ -436,26 +481,7 @@
     "hours": ["10:00 AM", "12:00 PM"]
   },
   {
-    "session": "Table Talks: Business + Revenue",
-    "track": "Business + Revenue Track",
-    "date": "Friday - 10:00 AM - 12:00 PM",
-    "location": "Centennial Ballroom C",
-    "hashtag": "#ona16",
-    "edition": "2016",
-    "day": "Friday",
-    "hours": ["10:00 AM", "12:00 PM"]
-  },
-  {
-    "session": "Table Talks: Audio, Photo + Video",
-    "track": "Audio, Photo + Video Track",
-    "date": "Friday - 10:00 AM - 12:00 PM",
-    "location": "Centennial Ballroom G",
-    "hashtag": "#ona16",
-    "edition": "2016",
-    "day": "Friday",
-    "hours": ["10:00 AM", "12:00 PM"]
-  },
-  {
+    "link": "https://ona16.journalists.org/sessions/tabletalkscareerbuilding/",
     "session": "Table Talks: Career Building",
     "track": "Career Building Track",
     "date": "Friday - 10:00 AM - 12:00 PM",
@@ -466,6 +492,29 @@
     "hours": ["10:00 AM", "12:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/tabletalksaudiovideophoto/",
+    "session": "Table Talks: Audio, Photo + Video",
+    "track": "Audio, Photo + Video Track",
+    "date": "Friday - 10:00 AM - 12:00 PM",
+    "location": "Centennial Ballroom G",
+    "hashtag": "#ona16",
+    "edition": "2016",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/tabletalksbusiness/",
+    "session": "Table Talks: Business + Revenue",
+    "track": "Business + Revenue Track",
+    "date": "Friday - 10:00 AM - 12:00 PM",
+    "location": "Centennial Ballroom C",
+    "hashtag": "#ona16",
+    "edition": "2016",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/tabletalksmobile/",
     "session": "Table Talks: Mobile Tools + Design",
     "track": "Mobile Tools + Design Track",
     "date": "Friday - 10:00 AM - 12:00 PM",
@@ -476,6 +525,7 @@
     "hours": ["10:00 AM", "12:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/tabletalkseducators/",
     "session": "Table Talks: Educators + Students",
     "track": "Educators + students Track",
     "date": "Friday - 10:00 AM - 12:00 PM",
@@ -486,6 +536,7 @@
     "hours": ["10:00 AM", "12:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/tabletalksengagement/",
     "session": "Table Talks: Audience Engagement + Analytics",
     "track": "Audience Engagement + Analytics Track",
     "date": "Friday - 10:00 AM - 12:00 PM",
@@ -496,6 +547,7 @@
     "hours": ["10:00 AM", "12:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/sponsoredbrightspot/",
     "session":
       "Brightspot: First to Publish: Learn How Industry Leaders Stay Agile in a Rapidly Changing News World [Sponsored]",
     "track": "Audience Engagement + Analytics Track",
@@ -507,6 +559,7 @@
     "hours": ["4:00 PM", "5:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/livestream2/",
     "session":
       "F* It, We'll Do It Live: Workshopping The Hows & Whys Of Live Stream Part II",
     "track": "Newsgathering Tools + Techniques Track",
@@ -518,6 +571,18 @@
     "hours": ["4:00 PM", "5:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/webvideobroadcast/",
+    "session": "Broadcast, Web Video and the Attention Economy",
+    "track": "Audio, Video + Photo Track",
+    "date": "Thursday - 4:00 PM - 5:00 PM",
+    "location": "Centennial Ballroom A",
+    "hashtag": "#ONA16webvid",
+    "edition": "2016",
+    "day": "Thursday",
+    "hours": ["4:00 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/insightsandmeetup/",
     "session":
       "Story, Platform and Design: Digital Journalism Insights + VIP Meetup",
     "track": "Newsgathering Tools + Techniques Track",
@@ -529,6 +594,7 @@
     "hours": ["4:00 PM", "5:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/twowaychat/",
     "session": "Planning Chat for Scale by Predicting a Two-Way Conversation",
     "track": "Audience Engagement + Analytics Track",
     "date": "Thursday - 4:00 PM - 5:00 PM",
@@ -539,16 +605,7 @@
     "hours": ["4:00 PM", "5:00 PM"]
   },
   {
-    "session": "Broadcast, Web Video and the Attention Economy",
-    "track": "Audio, Video + Photo Track",
-    "date": "Thursday - 4:00 PM - 5:00 PM",
-    "location": "Centennial Ballroom A",
-    "hashtag": "#ONA16webvid",
-    "edition": "2016",
-    "day": "Thursday",
-    "hours": ["4:00 PM", "5:00 PM"]
-  },
-  {
+    "link": "https://ona16.journalists.org/sessions/coralproject/",
     "session":
       "Do Audience Better: Lessons from 150 Newsrooms and a Year of Writing Code for The Coral Project",
     "track": "Audience Engagement + Analytics Track",
@@ -560,6 +617,7 @@
     "hours": ["4:00 PM", "5:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/legalpanel/",
     "session": "The Legal Panel",
     "track": "Business + Revenue Track",
     "date": "Thursday - 4:00 PM - 5:00 PM",
@@ -570,6 +628,7 @@
     "hours": ["4:00 PM", "5:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/nicheproducts/",
     "session":
       "Getting into the Weed: Launching a Successful Niche Digital Media Product",
     "track": "Business + Revenue Track",
@@ -581,17 +640,7 @@
     "hours": ["4:00 PM", "5:00 PM"]
   },
   {
-    "session":
-      "Fresco News: The Power of Community: UGC and the Millennial Newsroom [Sponsored]",
-    "track": "Audience Engagement + Analytics Track",
-    "date": "Thursday - 2:30 PM - 3:30 PM",
-    "location": "Mineral Room B+C",
-    "hashtag": "#ONA16Fresco",
-    "edition": "2016",
-    "day": "Thursday",
-    "hours": ["2:30 PM", "3:30 PM"]
-  },
-  {
+    "link": "https://ona16.journalists.org/sessions/raceandinclusion/",
     "session": "Rethinking 'Diversity': How to Cover Race & Inclusion",
     "track": "Newsgathering Tools + Techniques Track",
     "date": "Thursday - 2:30 PM - 3:30 PM",
@@ -602,6 +651,7 @@
     "hours": ["2:30 PM", "3:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/panamapapers/",
     "session":
       "Panama Papers, or How To Coordinate a Secret in the Digital Age",
     "track": "Newsgathering Tools + Techniques Track",
@@ -613,6 +663,19 @@
     "hours": ["2:30 PM", "3:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/sponsoredfresco/",
+    "session":
+      "Fresco News: The Power of Community: UGC and the Millennial Newsroom [Sponsored]",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Thursday - 2:30 PM - 3:30 PM",
+    "location": "Mineral Room B+C",
+    "hashtag": "#ONA16Fresco",
+    "edition": "2016",
+    "day": "Thursday",
+    "hours": ["2:30 PM", "3:30 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/analytics2/",
     "session": "What We Really Mean When We Talk About Empathy and Analytics",
     "track": "Audience Engagement + Analytics Track",
     "date": "Thursday - 2:30 PM - 3:30 PM",
@@ -623,6 +686,7 @@
     "hours": ["2:30 PM", "3:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/livestream1/",
     "session":
       "F* It, We'll Do It Live: Workshopping The Hows & Whys Of Live Stream Part I",
     "track": "Newsgathering Tools + Techniques Track",
@@ -634,26 +698,7 @@
     "hours": ["2:30 PM", "3:30 PM"]
   },
   {
-    "session": "Designing Journalism for a Digital Conversation",
-    "track": "Audience Engagement + Analytics Track",
-    "date": "Thursday - 2:30 PM - 3:30 PM",
-    "location": "Centennial Ballroom A",
-    "hashtag": "#ONA16connect",
-    "edition": "2016",
-    "day": "Thursday",
-    "hours": ["2:30 PM", "3:30 PM"]
-  },
-  {
-    "session": "VR Technical Session: Spatialized Audio Design",
-    "track": "Audio, Photo + Video Track",
-    "date": "Thursday - 2:30 PM - 3:30 PM",
-    "location": "Agate A",
-    "hashtag": "#ONA16VRtech",
-    "edition": "2016",
-    "day": "Thursday",
-    "hours": ["2:30 PM", "3:30 PM"]
-  },
-  {
+    "link": "https://ona16.journalists.org/sessions/lockscreenstory/",
     "session": "Storytelling from the Smartphone Lock Screen",
     "track": "Mobile Tools + Design Track",
     "date": "Thursday - 2:30 PM - 3:30 PM",
@@ -664,6 +709,29 @@
     "hours": ["2:30 PM", "3:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/designingconversations/",
+    "session": "Designing Journalism for a Digital Conversation",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Thursday - 2:30 PM - 3:30 PM",
+    "location": "Centennial Ballroom A",
+    "hashtag": "#ONA16connect",
+    "edition": "2016",
+    "day": "Thursday",
+    "hours": ["2:30 PM", "3:30 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/vrtechnical1/",
+    "session": "VR Technical Session: Spatialized Audio Design",
+    "track": "Audio, Photo + Video Track",
+    "date": "Thursday - 2:30 PM - 3:30 PM",
+    "location": "Agate A",
+    "hashtag": "#ONA16VRtech",
+    "edition": "2016",
+    "day": "Thursday",
+    "hours": ["2:30 PM", "3:30 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/productthinking/",
     "session": "Product-ify Your Newsroom: Innovate with Product Thinking",
     "track": "Mobile Tools + Design Track",
     "date": "Thursday - 2:30 PM - 3:30 PM",
@@ -674,6 +742,7 @@
     "hours": ["2:30 PM", "3:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/freelancepitches/",
     "session":
       "Baiting Your Hook: The Delicate Art of Pitching Your Freelance Article",
     "track": "Career Building Track",
@@ -685,6 +754,7 @@
     "hours": ["2:30 PM", "3:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/sponsoredinstagram/",
     "session":
       "Facebook: Emerging Visual Storytelling on Instagram and 360 [Sponsored]",
     "track": "Audio, Photo + Video Track",
@@ -696,6 +766,7 @@
     "hours": ["1:00 PM", "2:00 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/sponsorednbc/",
     "session":
       "NBC News/MSNBC: Avoiding Stereotypes in Reporting and How Transparency is Your Ally When it Happens [Sponsored]",
     "track": "Newsgathering Tools + Techniques Track",
@@ -707,6 +778,7 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/snapocalypse/",
     "session":
       "Welcome to the Snapocalypse: Navigating, Surviving ... and Thriving? ... With Distributed Content",
     "track": "Audience Engagement + Analytics Track",
@@ -718,6 +790,7 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/toolsvsnowflakes/",
     "session": "Tools v. Snowflakes",
     "track": "Developer Tools + Tech Track",
     "date": "Thursday - 11:30 AM - 12:30 PM",
@@ -728,6 +801,7 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/vrstorytelling/",
     "session": "Hype or Here: When Should I Use 360/VR in My Storytelling?",
     "track": "Audio, Photo + Video Track",
     "date": "Thursday - 11:30 AM - 12:30 PM",
@@ -738,6 +812,7 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/contentfirst/",
     "session": "It’s Not Mobile First. Think Content First.",
     "track": "Mobile Tools + Design Track",
     "date": "Thursday - 11:30 AM - 12:30 PM",
@@ -748,6 +823,7 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/socializingaudio/",
     "session": "Socializing a Visual-Less Medium: The Future of Social Audio",
     "track": "Audio, Photo + Video Track",
     "date": "Thursday - 11:30 AM - 12:30 PM",
@@ -758,6 +834,7 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/socialnewsethics/",
     "session": "Bringing Ethical and Social Newsgathering to Your Newsroom",
     "track": "Newsgathering Tools + Techniques Track",
     "date": "Thursday - 11:30 AM - 12:30 PM",
@@ -768,16 +845,7 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
-    "session": "Early-Career Tips From our MJ Bear Fellows",
-    "track": "Career Building Track",
-    "date": "Thursday - 11:30 AM - 12:30 PM",
-    "location": "Mineral Rooms D+E",
-    "hashtag": "#mjbearfellows",
-    "edition": "2016",
-    "day": "Thursday",
-    "hours": ["11:30 AM", "12:30 PM"]
-  },
-  {
+    "link": "https://ona16.journalists.org/sessions/revenueroundup/",
     "session": "The Revenue Roundup: 6 Idea$ to Monetize Your Newsroom",
     "track": "Business + Revenue Track",
     "date": "Thursday - 11:30 AM - 12:30 PM",
@@ -788,6 +856,18 @@
     "hours": ["11:30 AM", "12:30 PM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/mjbear/",
+    "session": "Early-Career Tips From our MJ Bear Fellows",
+    "track": "Career Building Track",
+    "date": "Thursday - 11:30 AM - 12:30 PM",
+    "location": "Mineral Rooms D+E",
+    "hashtag": "#mjbearfellows",
+    "edition": "2016",
+    "day": "Thursday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona16.journalists.org/sessions/openingkeynote/",
     "session": "OPENING KEYNOTE: Fireside Chat with Facebook’s Fidji Simo",
     "track": "Keynote Track",
     "date": "Thursday - 9:30 AM - 10:30 AM",
@@ -798,6 +878,7 @@
     "hours": ["9:30 AM", "10:30 AM"]
   },
   {
+    "link": "https://ona16.journalists.org/sessions/openingremarks/",
     "session": "Welcome and Opening Remarks",
     "track": "Keynote Track",
     "date": "Thursday - 9:00 AM - 9:30 AM",
