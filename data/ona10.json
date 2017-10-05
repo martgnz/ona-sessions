@@ -1,0 +1,745 @@
+[
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ViF/finding-the-job-navigating-the-media-market",
+    "session": "Finding the Job: Navigating the Media Market",
+    "track": "Career Summit & Job Fair",
+    "date": "Thursday October 28, 2010  9:00am - 10:00am",
+    "location": "Congressional A-B",
+    "hashtag": "#findjob",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["9:00am", "10:00am"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2Xzj/data-journalism-for-beginners",
+    "session": "Data Journalism for Beginners          LIMITED",
+    "track": "Half-Day",
+    "date": "Thursday October 28, 2010  9:30am - 12:30pm",
+    "location": "Room 13",
+    "hashtag": "#dataj",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["9:30am", "12:30pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2av4/online-journalism-awards-banquet",
+    "session": "Online Journalism Awards Banquet",
+    "track": "Online Journalism Awards",
+    "date": "Saturday October 30, 2010  7:00pm - 10:00pm",
+    "location": "Grand Ballroom",
+    "hashtag": "#oja",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["7:00pm", "10:00pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ehM/apple-dslr-video-workflow-using-final-cut-pro-and-color",
+    "session": "Apple: DSLR Video Workflow Using Final Cut Pro and Color",
+    "track": "J-Camp",
+    "date": "Saturday October 30, 2010  4:30pm -  5:30pm",
+    "location": "Room 13",
+    "hashtag": "#apple",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["4:30pm", "5:30pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2XGJ/student-meetup",
+    "session": "Student Meetup",
+    "track": "General Session",
+    "date": "Saturday October 30, 2010  4:30pm -  5:30pm",
+    "location": "Room 12",
+    "hashtag": "#student",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["4:30pm", "5:30pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2by8/photography-field-trip",
+    "session": "Photography Field Trip          LIMITED",
+    "track": "Half-Day",
+    "date": "Thursday October 28, 2010  8:45am -  2:00pm",
+    "location": "Room 14",
+    "hashtag": "#phototrip",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["8:45am", "2:00pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2YG1/how-to-host-an-ona-meetup",
+    "session": "How to Host an ONA Meetup",
+    "track": "General Session",
+    "date": "Saturday October 30, 2010  4:30pm -  5:30pm",
+    "location": "Auditorium",
+    "hashtag": "#meetup",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["4:30pm", "5:30pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2YGa/international-meetup",
+    "session": "International Meetup",
+    "track": "General Session",
+    "date": "Saturday October 30, 2010  4:30pm -  5:30pm",
+    "location": "Grand Ballroom South",
+    "hashtag": "#intl",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["4:30pm", "5:30pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2ehL/academic-meetup",
+    "session": "Academic Meetup",
+    "track": "General Session",
+    "date": "Saturday October 30, 2010  4:30pm -  5:30pm",
+    "location": "Room 14",
+    "hashtag": "#academic",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["4:30pm", "5:30pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ehK/google-maps-earth-and-street-view-made-easy",
+    "session": "Google: Maps, Earth and Street View Made Easy",
+    "track": "J-Camp",
+    "date": "Saturday October 30, 2010  3:15pm -  4:15pm",
+    "location": "Room 12",
+    "hashtag": "#google",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["3:15pm", "4:15pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2c66/apple-telling-your-story-using-dslr-video-and-aperture",
+    "session": "Apple: Telling Your Story Using DSLR Video and Aperture",
+    "track": "J-Camp",
+    "date": "Saturday October 30, 2010  3:15pm -  4:15pm",
+    "location": "Room 13",
+    "hashtag": "#apple",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["3:15pm", "4:15pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ahu/the-onion-explaining-over-250-years-of-news-dominance",
+    "session": "The Onion: Explaining Over 250 Years of News Dominance",
+    "track": "Strategies",
+    "date": "Saturday October 30, 2010  3:15pm -  4:15pm",
+    "location": "Grand Ballroom South",
+    "hashtag": "#onion",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["3:15pm", "4:15pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ehN/online-journalism-awards-reception",
+    "session": "Online Journalism Awards Reception",
+    "track": "Online Journalism Awards",
+    "date": "Saturday October 30, 2010  6:00pm -  7:00pm",
+    "location": "Congressional A-B",
+    "hashtag": "#oja",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["6:00pm", "7:00pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2ehJ/dont-call-it-ugc",
+    "session": "Don't Call It UGC",
+    "track": "Strategies",
+    "date": "Saturday October 30, 2010  3:15pm -  4:15pm",
+    "location": "Auditorium",
+    "hashtag": "#notugc",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["3:15pm", "4:15pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ehI/google-youtube-for-journalists",
+    "session": "Google: YouTube for Journalists",
+    "track": "J-Camp",
+    "date": "Saturday October 30, 2010  2:00pm -  3:00pm",
+    "location": "Room 12",
+    "hashtag": "#google",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["2:00pm", "3:00pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ehH/apple-making-it-move-intro-to-motion",
+    "session": "Apple: Making It Move -- Intro to Motion",
+    "track": "J-Camp",
+    "date": "Saturday October 30, 2010  2:00pm -  3:00pm",
+    "location": "Room 13",
+    "hashtag": "#apple",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["2:00pm", "3:00pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ehG/tips-and-tricks-for-shooting-video-with-your-dslr",
+    "session": "Tips and Tricks for Shooting Video with Your DSLR",
+    "track": "Tools",
+    "date": "Saturday October 30, 2010  2:00pm -  3:00pm",
+    "location": "Auditorium",
+    "hashtag": "#dslr",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["2:00pm", "3:00pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2VMX/news-apps-showcase-strategy",
+    "session": "News Apps: Showcase & Strategy",
+    "track": "Tools",
+    "date": "Saturday October 30, 2010  2:00pm -  3:00pm",
+    "location": "Congressional A-B",
+    "hashtag": "#newsapps",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["2:00pm", "3:00pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ehF/rebooting-the-news-live-podcast",
+    "session": "Rebooting the News Live Podcast",
+    "track": "J-Camp",
+    "date": "Saturday October 30, 2010 12:45pm -  1:45pm",
+    "location": "Auditorium",
+    "hashtag": "#reboot",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["-", "1:45pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ctK/apple-final-cut-studio-real-world-editing",
+    "session": "Apple: Final Cut Studio -- Real World Editing",
+    "track": "J-Camp",
+    "date": "Saturday October 30, 2010 12:45pm -  1:45pm",
+    "location": "Room 13",
+    "hashtag": "#apple",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["-", "1:45pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ehE/you-invent-it-they-fund-it-2010-lunch-with-knight-news-challenge-winners",
+    "session":
+      "You Invent It, They Fund It 2010: Lunch with Knight News Challenge Winners",
+    "track": "Meal",
+    "date": "Saturday October 30, 2010 12:45pm -  1:45pm",
+    "location": "Grand Ballroom",
+    "hashtag": "#knclunch",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["-", "1:45pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2ehD/google-for-journalists",
+    "session": "Google for Journalists",
+    "track": "J-Camp",
+    "date": "Saturday October 30, 2010 11:30am - 12:30pm",
+    "location": "Room 12",
+    "hashtag": "#google",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["-", "12:30pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2Wya/ten-tech-trends-in-10",
+    "session": "Ten Tech Trends in '10",
+    "track": "Tools",
+    "date": "Saturday October 30, 2010 11:30am - 12:30pm",
+    "location": "Auditorium",
+    "hashtag": "#techtrends",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["-", "12:30pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2dwL/seven-deadly-sins-of-data-visualization",
+    "session": "Seven Deadly Sins of Data Visualization",
+    "track": "Design-Tech",
+    "date": "Saturday October 30, 2010 11:30am - 12:30pm",
+    "location": "Congressional A-B",
+    "hashtag": "#dataviz",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["-", "12:30pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2ZgH/android-ipad-and-beyond",
+    "session": "Android, iPad and Beyond",
+    "track": "Tools",
+    "date": "Saturday October 30, 2010 11:30am - 12:30pm",
+    "location": "Grand Ballroom South",
+    "hashtag": "#mobile",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["-", "12:30pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2a6I/turning-bits-into-bucks",
+    "session": "Turning Bits into Bucks",
+    "track": "Strategies",
+    "date": "Saturday October 30, 2010 10:15am - 11:15am",
+    "location": "Grand Ballroom South",
+    "hashtag": "#bitsbucks",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["-", "11:15am"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2abn/rewiring-the-ivory-tower",
+    "session": "Rewiring the Ivory Tower",
+    "track": "Strategies",
+    "date": "Saturday October 30, 2010 10:15am - 11:15am",
+    "location": "Auditorium",
+    "hashtag": "#academia",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["-", "11:15am"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2ehB/creating-killer-apps-with-public-data",
+    "session": "Creating Killer Apps with Public Data",
+    "track": "Design-Tech",
+    "date": "Saturday October 30, 2010 10:15am - 11:15am",
+    "location": "Congressional A-B",
+    "hashtag": "#killerapps",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["-", "11:15am"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2eh9/twitter-office-hours",
+    "session": "Twitter Office Hours",
+    "track": "J-Camp",
+    "date": "Saturday October 30, 2010  9:00am - 12:00pm",
+    "location": "Room 13",
+    "hashtag": "#twitter",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["9:00am", "12:00pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2b1F/a-wikileaks-download",
+    "session": "A Wikileaks Download",
+    "track": "Meal",
+    "date": "Saturday October 30, 2010  9:00am - 10:00am",
+    "location": "Grand Ballroom",
+    "hashtag": "#wikileaks",
+    "edition": "2010",
+    "day": "Saturday",
+    "hours": ["9:00am", "10:00am"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2eh5/networking-mixer",
+    "session": "Networking Mixer",
+    "track": "Networking-Reception",
+    "date": "Friday October 29, 2010  7:00pm -  9:00pm",
+    "location": "Congressional C",
+    "hashtag": "#mixer",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["7:00pm", "9:00pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2a31/networking-mixer-with-jonathan-harris",
+    "session": "Networking Mixer with Jonathan Harris",
+    "track": "Networking-Reception",
+    "date": "Friday October 29, 2010  6:00pm -  7:00pm",
+    "location": "Congressional A-B",
+    "hashtag": "#harris",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["6:00pm", "7:00pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2eh4/apple-telling-your-story-using-dslr-video-and-aperture",
+    "session": "Apple: Telling Your Story Using DSLR Video and Aperture",
+    "track": "J-Camp",
+    "date": "Friday October 29, 2010  4:45pm -  5:45pm",
+    "location": "Room 13",
+    "hashtag": "#apple",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["4:45pm", "5:45pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2W3e/law-order-special-digital-unit",
+    "session": "Law & Order: Special Digital Unit",
+    "track": "Strategies",
+    "date": "Friday October 29, 2010  3:30pm -  5:00pm",
+    "location": "Auditorium",
+    "hashtag": "#law",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["3:30pm", "5:00pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2eh1/google-maps-earth-and-street-view-made-easy",
+    "session": "Google: Maps, Earth and Street View Made Easy",
+    "track": "J-Camp",
+    "date": "Friday October 29, 2010  3:30pm -  4:30pm",
+    "location": "Room 12",
+    "hashtag": "#google",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["3:30pm", "4:30pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2eh0/whats-next-for-traffic-and-search",
+    "session": "What's Next for Traffic and Search?",
+    "track": "Tools",
+    "date": "Friday October 29, 2010  3:30pm -  4:30pm",
+    "location": "Grand Ballroom South",
+    "hashtag": "#traffic",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["3:30pm", "4:30pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2Z2T/coders-are-from-mars-designers-are-from-venus",
+    "session": "Coders Are from Mars, Designers Are from Venus",
+    "track": "Design-Tech",
+    "date": "Friday October 29, 2010  3:30pm -  4:30pm",
+    "location": "Congressional A-B",
+    "hashtag": "#marsvenus",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["3:30pm", "4:30pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2egz/google-youtube-for-journalists",
+    "session": "Google: YouTube for Journalists",
+    "track": "J-Camp",
+    "date": "Friday October 29, 2010  2:15pm -  3:15pm",
+    "location": "Room 12",
+    "hashtag": "#google",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["2:15pm", "3:15pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2egx/the-next-revolution-for-web-design",
+    "session": "The Next Revolution for Web Design",
+    "track": "Design-Tech",
+    "date": "Friday October 29, 2010  2:15pm -  3:15pm",
+    "location": "Congressional A-B",
+    "hashtag": "#newsdesign",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["2:15pm", "3:15pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2Vgj/social-media-storytelling",
+    "session": "Social Media Storytelling",
+    "track": "Tools",
+    "date": "Friday October 29, 2010  2:15pm -  3:15pm",
+    "location": "Grand Ballroom South",
+    "hashtag": "#socialj",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["2:15pm", "3:15pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2X9s/go-niche",
+    "session": "Go Niche",
+    "track": "Strategies",
+    "date": "Friday October 29, 2010  2:15pm -  3:15pm",
+    "location": "Auditorium",
+    "hashtag": "#niche",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["2:15pm", "3:15pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2egw/twitter-office-hours",
+    "session": "Twitter Office Hours",
+    "track": "J-Camp",
+    "date": "Friday October 29, 2010  2:00pm -  4:00pm",
+    "location": "Room 13",
+    "hashtag": "#twitter",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["2:00pm", "4:00pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2VVx/ona-board-general-session",
+    "session": "ONA Board General Session",
+    "track": "General Session",
+    "date": "Friday October 29, 2010  4:45pm -  5:30pm",
+    "location": "Grand Ballroom",
+    "hashtag": "#board",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["4:45pm", "5:30pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2WaU/keynote-conversation-kara-swisher-talks-to-tim-armstrong-and-vivian-schiller",
+    "session":
+      "Keynote Conversation: Kara Swisher Talks to Tim Armstrong and Vivian Schiller",
+    "track": "Meal",
+    "date": "Friday October 29, 2010 12:45pm -  1:45pm",
+    "location": "Grand Ballroom",
+    "hashtag": "#key",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["-", "1:45pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2egv/google-for-journalists",
+    "session": "Google for Journalists",
+    "track": "J-Camp",
+    "date": "Friday October 29, 2010 11:30am - 12:30pm",
+    "location": "Room 12",
+    "hashtag": "#google",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["-", "12:30pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2egu/apple-making-it-move-intro-to-motion",
+    "session": "Apple: Making It Move -- Intro to Motion",
+    "track": "J-Camp",
+    "date": "Friday October 29, 2010 11:30am - 12:30pm",
+    "location": "Room 13",
+    "hashtag": "#apple",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["-", "12:30pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2d5F/from-earthquakes-to-coups-tools-for-crisis-reporting",
+    "session": "From Earthquakes to Coups: Tools for Crisis Reporting",
+    "track": "Tools",
+    "date": "Friday October 29, 2010 11:30am - 12:30pm",
+    "location": "Grand Ballroom South",
+    "hashtag": "#crisis",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["-", "12:30pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2ZF9/forging-pro-am-partnerships",
+    "session": "Forging Pro-Am Partnerships",
+    "track": "Strategies",
+    "date": "Friday October 29, 2010 11:30am - 12:30pm",
+    "location": "Auditorium",
+    "hashtag": "#proam",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["-", "12:30pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2egs/documentclouds-first-year",
+    "session": "DocumentCloud's First Year",
+    "track": "Tools",
+    "date": "Friday October 29, 2010 11:30am - 12:30pm",
+    "location": "Congressional A-B",
+    "hashtag": "#dcloud",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["-", "12:30pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2YKt/the-new-investigative-journalism-ecosystem",
+    "session": "The New Investigative Journalism Ecosystem",
+    "track": "Strategies",
+    "date": "Friday October 29, 2010 10:15am - 11:15am",
+    "location": "Auditorium",
+    "hashtag": "#ecosystem",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["-", "11:15am"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2egr/no-comment-rethinking-online-commenting",
+    "session": "No Comment: Rethinking Online Commenting",
+    "track": "Strategies",
+    "date": "Friday October 29, 2010 10:15am - 11:15am",
+    "location": "Grand Ballroom South",
+    "hashtag": "#nocomment",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["-", "11:15am"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2egq/content-sharing-through-apis",
+    "session": "Content-Sharing Through APIs",
+    "track": "Tools",
+    "date": "Friday October 29, 2010 10:15am - 11:15am",
+    "location": "Congressional A-B",
+    "hashtag": "#apis",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["-", "11:15am"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2egp/keynote-starting-from-scratch-tbdcom",
+    "session": "Keynote: Starting from Scratch -- TBD.com",
+    "track": "Meal",
+    "date": "Friday October 29, 2010  8:45am -  9:45am",
+    "location": "Grand Ballroom",
+    "hashtag": "#tbd",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["8:45am", "9:45am"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2egt/apple-final-cut-studio-real-world-editing",
+    "session": "Apple: Final Cut Studio -- Real World Editing",
+    "track": "J-Camp",
+    "date": "Friday October 29, 2010 10:15am - 11:15am",
+    "location": "Room 13",
+    "hashtag": "#apple",
+    "edition": "2010",
+    "day": "Friday",
+    "hours": ["-", "11:15am"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2Xuw/web-design-trends",
+    "session": "Web Design Trends          FULL",
+    "track": "Half-Day",
+    "date": "Thursday October 28, 2010  2:00pm -  5:00pm",
+    "location": "Room 13",
+    "hashtag": "#designtrends",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["2:00pm", "5:00pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2egl/real-time-coverage-from-scratch",
+    "session": "Real-Time Coverage from Scratch          FILLING",
+    "track": "Half-Day",
+    "date": "Thursday October 28, 2010  2:00pm -  5:00pm",
+    "location": "Room 12",
+    "hashtag": "#rtcoverage",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["2:00pm", "5:00pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2WyF/plugging-in-to-networked-journalism",
+    "session": "Plugging in to Networked Journalism          FILLING",
+    "track": "Half-Day",
+    "date": "Thursday October 28, 2010  2:00pm -  5:00pm",
+    "location": "Grand Ballroom South",
+    "hashtag": "#netj",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["2:00pm", "5:00pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2bj4/job-fair",
+    "session": "Job Fair",
+    "track": "Career Summit & Job Fair",
+    "date": "Thursday October 28, 2010  1:30pm -  4:00pm",
+    "location": "Grand Ballroom Central",
+    "hashtag": "#jobfair",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["1:30pm", "4:00pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2egk/landing-the-job-a-master-class",
+    "session": "Landing the Job: A Master Class",
+    "track": "Career Summit & Job Fair",
+    "date": "Thursday October 28, 2010 12:30pm -  1:30pm",
+    "location": "Congressional A-B",
+    "hashtag": "#landingjob",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["-", "1:30pm"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2Xrk/audio-field-trip",
+    "session": "Audio Field Trip          LIMITED",
+    "track": "Half-Day",
+    "date": "Thursday October 28, 2010 10:45am -  5:00pm",
+    "location": "Room 14",
+    "hashtag": "#audiotrip",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["-", "5:00pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2egj/building-your-brand-standing-out-and-getting-paid",
+    "session": "Building your Brand: Standing Out and Getting Paid",
+    "track": "Career Summit & Job Fair",
+    "date": "Thursday October 28, 2010 10:45am - 11:30am",
+    "location": "Congressional A-B",
+    "hashtag": "#brand",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["-", "11:30am"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2egi/getting-into-position-developing-the-right-skills",
+    "session": "Getting into Position: Developing the Right Skills",
+    "track": "Career Summit & Job Fair",
+    "date": "Thursday October 28, 2010 10:00am - 10:30am",
+    "location": "Congressional A-B",
+    "hashtag": "#skillz",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["-", "10:30am"]
+  },
+  {
+    "link": "https://ona2010.sched.com/event/2df5/video-field-trip",
+    "session": "Video Field Trip          LIMITED",
+    "track": "Full-Day",
+    "date": "Thursday October 28, 2010  9:45am -  3:30pm",
+    "location": "Room 14",
+    "hashtag": "#videotrip",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["9:45am", "3:30pm"]
+  },
+  {
+    "link":
+      "https://ona2010.sched.com/event/2dkz/hands-on-open-source-technology",
+    "session": "Hands-On Open-Source Technology          LIMITED",
+    "track": "Full-Day",
+    "date": "Thursday October 28, 2010  9:30am -  4:30pm",
+    "location": "Room 10-11",
+    "hashtag": "#opensource",
+    "edition": "2010",
+    "day": "Thursday",
+    "hours": ["9:30am", "4:30pm"]
+  }
+]
