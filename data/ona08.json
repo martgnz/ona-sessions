@@ -1,0 +1,383 @@
+[
+  {
+    "session": "Student Newsroom",
+    "hours": ["8 a.m.", "8 p.m."],
+    "location": "Ohio Room"
+  },
+  {
+    "session": "JOB FAIR",
+    "hours": ["9 a.m.", "5 p.m."],
+    "location": "Presidential Ballroom"
+  },
+  {
+    "session": "Playing the News",
+    "hours": ["9 a.m.", "3 p.m."],
+    "location": "South America Room"
+  },
+  {
+    "session": "Dynamic Websites for Newsrooms:",
+    "hours": ["9 a.m.", "5 p.m."],
+    "location": "Statler Room"
+  },
+  {
+    "session": "Like Minds:",
+    "hours": ["1", "4 p.m."],
+    "location": "Pan American Room"
+  },
+  {
+    "session": "ONA Video Workshop",
+    "hours": ["9 a.m.", "5 p.m."],
+    "location": "Federal B"
+  },
+  {
+    "session": "J-School Entrepreneurship Bootcamp",
+    "hours": ["3:30 p.m.", "7 p.m."],
+    "location": "South America Room"
+  },
+  {
+    "session": "Newseum Tour",
+    "hours": ["5 p.m.", "6 p.m."],
+    "location": "Newseum"
+  },
+  {
+    "session": "RECEPTION",
+    "hours": ["6:30", "8:30 p.m."],
+    "location": "Newseum"
+  },
+  {
+    "session": "BREAKFAST",
+    "hours": ["8", "9 a.m."],
+    "location": "Congressional & State Rooms"
+  },
+  {
+    "session": "Student Newsroom",
+    "hours": ["8 a.m.", "8 p.m."],
+    "location": "Ohio Room"
+  },
+  {
+    "session": "Video Editing Basics",
+    "hours": ["8", "9 a.m."],
+    "location": "Massachusetts Room",
+    "track": "Multimedia Learning Lab"
+  },
+  {
+    "session": "GENERAL SESSION: Keynote Speaker Tina Brown",
+    "hours": ["9", "10:30 a.m."],
+    "location": "Presidential Ballroom"
+  },
+  {
+    "session": "COFFEE BREAK",
+    "hours": ["10:30", "10:45 a.m."],
+    "location": "Capital Terrace"
+  },
+  {
+    "session": "Creating Detailed Runners and Graphics for Web Video",
+    "hours": ["10:45", "11:45 a.m."],
+    "location": "Massachusetts Room",
+    "track": "Multimedia Learning Lab"
+  },
+  {
+    "session": "Las Vegas Sun: Site redesign",
+    "hours": ["10:45", "11:45 a.m."],
+    "location": "South America Room",
+    "track": "How'd they do that?"
+  },
+  {
+    "session": "ACAP: Should Publishers Adopt a New Standard?",
+    "hours": ["10:45", "11:45 a.m."],
+    "location": "Federal Room",
+    "track": "Emerging Tech & the Newsroom"
+  },
+  {
+    "session": "LUNCH: Keynote Speaker Devin Wenig",
+    "hours": ["11:45 a.m.", "1 p.m."],
+    "location": "Presidential & Congressional Rooms"
+  },
+  {
+    "session": "Advanced Photoshop Techniques",
+    "hours": ["1", "2 p.m."],
+    "location": "Massachusetts Room",
+    "track": "Multimedia Learning Lab"
+  },
+  {
+    "session": "MSNBC.com Bridge Tracker",
+    "hours": ["1", "2 p.m."],
+    "location": "South America Room",
+    "track": "How'd they do that?"
+  },
+  {
+    "session": "The Next New Metrics",
+    "hours": ["1", "2:15 p.m."],
+    "location": "Federal A Room",
+    "track": "Emerging Tech & the Newsroom"
+  },
+  {
+    "session": "So You Want To Teach? Ha!",
+    "hours": ["1", "2:15 p.m."],
+    "location": "Statler Room",
+    "track": "Teaching & Learning"
+  },
+  {
+    "session": "Free Fact-Checking Online",
+    "hours": ["1", "2:15 p.m."],
+    "location": "Federal B Room",
+    "track": "My Digital Beat"
+  },
+  {
+    "session": "Merging Newsrooms, Managing Drama",
+    "hours": ["1", "2:15 p.m."],
+    "location": "Pan American Room",
+    "track": "Be an Evangelist"
+  },
+  {
+    "session": "Make Your Own Interactive Map",
+    "hours": ["2:15", "3:15 p.m."],
+    "location": "Massachusetts Room",
+    "track": "Multimedia Learning Lab"
+  },
+  {
+    "session": "New York Times Election Guide",
+    "hours": ["2:15", "3:15 p.m."],
+    "location": "South America Room",
+    "track": "How'd they do that?"
+  },
+  {
+    "session": "Optimize and Monetize",
+    "hours": ["2:30", "3:45 p.m."],
+    "location": "Federal A Room",
+    "track": "Emerging Tech & the Newsroom"
+  },
+  {
+    "session": "Putting Universities To Work:",
+    "hours": ["2:30", "3:45 p.m."],
+    "location": "Statler Room",
+    "track": "Teaching & Learning"
+  },
+  {
+    "session": "Using The Web To Generate Story Ideas",
+    "hours": ["2:30", "3:45 p.m."],
+    "location": "Federal B Room",
+    "track": "My Digital Beat"
+  },
+  {
+    "session": "Content Distribution in Emerging Markets",
+    "hours": ["2:30", "3:45 p.m."],
+    "location": "Pan American Room",
+    "track": "Be an Evangelist"
+  },
+  {
+    "session": "Audio Post-Production & Mixing",
+    "hours": ["3:30", "4:15 p.m."],
+    "location": "Massachusetts Room",
+    "track": "Multimedia Learning Lab"
+  },
+  {
+    "session": "National Geographic Web Design",
+    "hours": ["3:30", "4:30 p.m."],
+    "location": "South America Room",
+    "track": "How'd they do that?"
+  },
+  {
+    "session": "Hello, Semantic Web!",
+    "hours": ["4", "5:15 p.m."],
+    "location": "Federal A Room",
+    "track": "Emerging Tech & the Newsroom"
+  },
+  {
+    "session": "Integrating Web Journalism Into College Curriculum",
+    "hours": ["4", "5:15 p.m."],
+    "location": "Statler Room",
+    "track": "Teaching & Learning"
+  },
+  {
+    "session": "Beyond Green",
+    "hours": ["4", "5:15 p.m."],
+    "location": "Federal B Room",
+    "track": "My Digital Beat"
+  },
+  {
+    "session": "Mobilize Your Audience!",
+    "hours": ["4", "5:15 p.m."],
+    "location": "Pan American Room",
+    "track": "Be an Evangelist"
+  },
+  {
+    "session": "Your First Facebook API",
+    "hours": ["4:30", "5:30 p.m."],
+    "location": "Massachusetts Room",
+    "track": "Multimedia Learning Lab"
+  },
+  {
+    "session": "Speed Networking",
+    "hours": ["5:30", "6:30 p.m."],
+    "location": "Massachusetts Room"
+  },
+  {
+    "session": "RECEPTION",
+    "hours": ["6", "8 p.m."],
+    "location": "Congressional & Senate Rooms"
+  },
+  {
+    "session": "BREAKFAST",
+    "hours": ["8", "9 a.m."],
+    "location": "Congressional & Senate Rooms"
+  },
+  {
+    "session": "Student Newsroom",
+    "hours": ["8 a.m.", "8 p.m."],
+    "location": "Ohio Room"
+  },
+  {
+    "session": "Video Editing Basics",
+    "hours": ["8", "9 a.m."],
+    "location": "Massachusetts Room",
+    "track": "Multimedia Learning Lab"
+  },
+  {
+    "session": "GENERAL SESSION: ONA membership meeting",
+    "hours": ["8:30", "9:15 a.m."],
+    "location": "Presidential Ballroom"
+  },
+  {
+    "session": "Keynote Speaker Robert Scoble",
+    "hours": ["9:30", "10:30 a.m."],
+    "location": "Presidential Ballroom"
+  },
+  {
+    "session": "COFFEE BREAK",
+    "hours": ["10:30", "10:45 a.m."],
+    "location": "Capital Terrace"
+  },
+  {
+    "session": "Put the Bling Back in Your Blog",
+    "hours": ["10:45", "11:45 a.m."],
+    "location": "Massachusetts Room",
+    "track": "Multimedia Learning Lab"
+  },
+  {
+    "session": "Innovative Video",
+    "hours": ["10:45", "11:45 a.m."],
+    "location": "Federal A Room",
+    "track": "How'd They Do That?"
+  },
+  {
+    "session": "10 Tech Trends You've Never Heard Of",
+    "hours": ["10:45", "11:45 a.m."],
+    "location": "Federal A Room",
+    "track": "Emerging Tech & the Newsroom"
+  },
+  {
+    "session": "The A-Plus Blog",
+    "hours": ["10:45", "11:45 a.m."],
+    "location": "Statler Room",
+    "track": "Teaching & Learning"
+  },
+  {
+    "session": "Digital Media in Spain & Europe",
+    "hours": ["10:45", "11:45 a.m."],
+    "location": "Federal B Room",
+    "track": "My Digital Beat"
+  },
+  {
+    "session": "Legal Issues",
+    "hours": ["10:45", "11:45 a.m."],
+    "location": "Pan American Room",
+    "track": "Be an Evangelist"
+  },
+  {
+    "session": "LUNCH",
+    "hours": ["11:45 a.m.", "1 p.m."],
+    "location": "Congressional & Senate Rooms"
+  },
+  {
+    "session": "Knight Grant Program",
+    "hours": ["Noon", "1 p.m."],
+    "location": "South America Room"
+  },
+  {
+    "session": "Using Twitter To Live Blog",
+    "hours": ["1", "2 p.m."],
+    "location": "Massachusetts Room",
+    "track": "Multimedia Learning Lab"
+  },
+  {
+    "session": "The Washington Independent Cutting-Edge Online Coverage",
+    "hours": ["1", "2 p.m."],
+    "location": "South America Room",
+    "track": "How'd they do that?"
+  },
+  {
+    "session": "Fireside Chat: Online Video",
+    "hours": ["1", "2 p.m."],
+    "location": "South America Room",
+    "track": "Emerging Technology & the Newsroom"
+  },
+  {
+    "session": "Sharing the Research",
+    "hours": ["1", "2 p.m."],
+    "location": "Statler Room",
+    "track": "Teaching & Learning"
+  },
+  {
+    "session": "Making Crime Pay",
+    "hours": ["1", "2:15 p.m."],
+    "location": "Federal B Room",
+    "track": "My Digital Beat"
+  },
+  {
+    "session": "Research That's Relevant:",
+    "hours": ["1", "2:15 p.m."],
+    "location": "Pan American Room",
+    "track": "Be an Evangelist"
+  },
+  {
+    "session": "Ethics 2.0: New Ethics in Age of New Media?",
+    "hours": ["2:15", "3:30 p.m."],
+    "location": "Statler Room"
+  },
+  {
+    "session": "So, I Have This Spreadsheet. . . ",
+    "hours": ["2:30", "3:30 p.m."],
+    "location": "Massachusetts Room",
+    "track": "Multimedia Learning Lab"
+  },
+  {
+    "session": "L.A. Times: Setting-Up and Streamlining a Multimedia Newsroom",
+    "hours": ["2:30", "3:30 p.m."],
+    "location": "South America Room",
+    "track": "How'd they do that?"
+  },
+  {
+    "session": "Mobile Platforms",
+    "hours": ["2:30", "3:30 p.m."],
+    "location": "Federal A Room",
+    "track": "Emerging Tech & the Newsroom"
+  },
+  {
+    "session": "Using The Web To Cover Healthcare",
+    "hours": ["2:30", "3:30 p.m."],
+    "location": "Federal B Room",
+    "track": "My Digital Beat"
+  },
+  {
+    "session": "Catalyze Your Newsroom!",
+    "hours": ["2:30", "3:30 p.m."],
+    "location": "Pan American Room",
+    "track": "Be an Evangelist"
+  },
+  {
+    "session": "Super Panel",
+    "hours": ["3:30", "5 p.m."],
+    "location": "Presidential Ballroom"
+  },
+  {
+    "session": "RECEPTION",
+    "hours": ["6", "7 p.m."],
+    "location": "Congressional & Senate"
+  },
+  {
+    "session": "Online Journalism Awards Banquet",
+    "hours": ["7", "9 p.m."],
+    "location": "Presidential Ballroom"
+  }
+]

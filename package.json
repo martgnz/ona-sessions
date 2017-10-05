@@ -9,6 +9,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "lodash": "^4.17.4",
     "osmosis": "^1.1.4"
   }
 }
