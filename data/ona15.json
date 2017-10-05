@@ -1,0 +1,1115 @@
+[
+  {
+    "link": "https://ona15.journalists.org/sessions/onalocal/",
+    "session":
+      "ONA Local: Creating Great Events for Networking, Learning and Fun",
+    "track": "Professional Development Track",
+    "date": "Saturday - 3:30 PM - 4:30 PM",
+    "location": "Sherman Oaks Room",
+    "hashtag": "#ONAlocal",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/fairfair/",
+    "session":
+      "Fail Fest 2015: I Failed, It Sucked, But Here’s How I Bounced Back",
+    "track": "Professional Development Track",
+    "date": "Saturday - 3:30 PM - 4:30 PM",
+    "location": "Olympic Ballroom I",
+    "hashtag": "#ONA15failfest",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/10techtrends/",
+    "session": "Tech Trends in Journalism",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Saturday - 3:30 PM - 4:30 PM",
+    "location": "Los Angeles Room",
+    "hashtag": "#ONA15trends",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/lightningtalks/",
+    "session": "Lightning Talks",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Saturday - 3:30 PM - 4:30 PM",
+    "location": "Constellation Ballroom I",
+    "hashtag": "#ONA15lt",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/audiofiles/",
+    "session": "Radio Reimagined: Distributing Audio In the Digital Age",
+    "track": "Audio, Video + Photo Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Pacific Room",
+    "hashtag": "#ONA15audio",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/navigatingyoutube/",
+    "session": "Navigating Uncharted YouTube Territory",
+    "track": "Audio, Video + Photo Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Los Angeles Room",
+    "hashtag": "#ONA15vid",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/virtualreality/",
+    "session": "Virtual Reality in a Material World",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Santa Monica Room",
+    "hashtag": "#ONA15immerse",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/audieceofthefuture/",
+    "session":
+      "Tomorrowland: The Staff and Audience We Should Be Building Toward",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Constellation Ballroom II",
+    "hashtag": "#ONA15diversity",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/instagramtraining2/",
+    "session": "[RSVP] Mobile Bootcamp: Instagram (offered twice)",
+    "track": "Mobile Tools + Design Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Malibu Room",
+    "hashtag": "#ONA15insta",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/internalpitch/",
+    "session": "Perfecting Your Internal Pitch",
+    "track": "Professional Development Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Olympic Ballroom II",
+    "hashtag": "#ONA15pitch",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/videocognition/",
+    "session": "Human Cognition, Meet Video in the Social Age",
+    "track": "Audio, Video + Photo Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Constellation Ballroom I",
+    "hashtag": "#ONA15attn",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/ux/",
+    "session": "UX = User + Experience",
+    "track": "Developer Tools + Tech Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Westwood Room",
+    "hashtag": "#ONA15ux",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/newsletters/",
+    "session": "Product Managing Your Newsletter",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Sherman Oaks Room",
+    "hashtag": "#ONA15mail",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/bansatprosportsevents/",
+    "session":
+      "A Contested Matchup: Exclusivity, Pro Sports Coverage and Digital Newsrooms",
+    "track": "Audio, Video + Photo Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Olympic Ballroom I",
+    "hashtag": "#ONA15sports",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/customizedtools/",
+    "session": "Strategies for Building Customized Tools with Tarbell",
+    "track": "Developer Tools + Tech Track",
+    "date": "Saturday - 11:30 AM - 12:30 PM",
+    "location": "Encino Room",
+    "hashtag": "#ONA15tarbell",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/yearindata/",
+    "session":
+      "A Year in Data: 2014 - 2015 Audience Trends - Parse.ly [Sponsored Session]",
+    "track": "Other Track",
+    "date": "Saturday - 10:00 AM - 11:00 AM",
+    "location": "Pacific Room",
+    "hashtag": "#ONA15data",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/millennialstudies/",
+    "session":
+      "Millennials Aren’t Just Snake People! Breaking Down The Monolith",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Saturday - 10:00 AM - 11:00 AM",
+    "location": "Olympic Ballroom II",
+    "hashtag": "#ONA15mill",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/newsmemorygap/",
+    "session": "Dodging the Memory Hole in Our Digital News Heritage",
+    "track": "Teaching + Training Track",
+    "date": "Saturday - 10:00 AM - 11:00 AM",
+    "location": "Encino Room",
+    "hashtag": "#ONA15archive",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/360video/",
+    "session": "360 Video for Newsrooms of Any Size",
+    "track": "Audio, Video + Photo Track",
+    "date": "Saturday - 10:00 AM - 11:00 AM",
+    "location": "Westwood Room",
+    "hashtag": "#ONA15_360",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/unsurfacedweb/",
+    "session":
+      "Where Science Meets Storytelling: Reporting from the Unsurfaced Web",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Saturday - 10:00 AM - 11:00 AM",
+    "location": "Santa Monica Room",
+    "hashtag": "#ONA15science",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/metricsthatmatter/",
+    "session": "Find the Metrics That Matter for Your Newsroom",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Saturday - 10:00 AM - 11:00 AM",
+    "location": "Olympic Ballroom I",
+    "hashtag": "#ONA15metrics",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/newdronerules/",
+    "session": "Flying Into New Territory With Drone Journalism",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Saturday - 10:00 AM - 11:00 AM",
+    "location": "Beverly Hills Room",
+    "hashtag": "#ONA15drones",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/livestreamlandscape/",
+    "session": "The Live Stream Landscape",
+    "track": "Mobile Tools + Design Track",
+    "date": "Saturday - 10:00 AM - 11:00 AM",
+    "location": "Constellation Ballroom I",
+    "hashtag": "#ONA15ls",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/newrevenue/",
+    "session": "Revenue Streams Beyond The Big Three",
+    "track": "Revenue + Ethics Track",
+    "date": "Saturday - 10:00 AM - 11:00 AM",
+    "location": "Constellation Ballroom II",
+    "hashtag": "#ONA15newrev",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/graphicsforsmallteams/",
+    "session": "Interactive Graphics for the Newsroom Couch Potato",
+    "track": "Developer Tools + Tech Track",
+    "date": "Saturday - 10:00 AM - 11:00 AM",
+    "location": "Sherman Oaks Room",
+    "hashtag": "#ONA15graphics",
+    "edition": "2015",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/whosefuture/",
+    "session": "Whose Idea Of The Future Is This?",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Friday - 3:30 PM - 4:30 PM",
+    "location": "Beverly Hills Room",
+    "hashtag": "#ONA15future",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/newsinternships/",
+    "session": "Improving Digital News Internships",
+    "track": "Professional Development Track",
+    "date": "Friday - 3:30 PM - 4:30 PM",
+    "location": "Westwood Room",
+    "hashtag": "#newsinterns",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/compensationconversation/",
+    "session":
+      "Negotiation, Compensation and You: A Workshop From the ONA-Poynter Women’s Leadership Academy",
+    "track": "Professional Development Track",
+    "date": "Friday - 3:30 PM - 4:30 PM",
+    "location": "Constellation Ballroom II",
+    "hashtag": "#ONA15negotiate",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/wnycpodcast/",
+    "session": "The WNYC Podcast Accelerator",
+    "track": "Audio, Video + Photo Track",
+    "date": "Friday - 3:30 PM - 5:00 PM",
+    "location": "Los Angeles Room",
+    "hashtag": "#ONA15wnyc",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["3:30 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/gamedesign/",
+    "session": "What Journalists Can Learn from Game Designers",
+    "track": "Teaching + Training Track",
+    "date": "Friday - 3:30 PM - 4:30 PM",
+    "location": "Constellation Ballroom I",
+    "hashtag": "#ONA15games",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/startupadvice/",
+    "session": "Solving for News: Real World Lessons From News Startups",
+    "track": "Revenue + Ethics Track",
+    "date": "Friday - 3:30 PM - 4:30 PM",
+    "location": "Olympic Ballroom II",
+    "hashtag": "#ONA15startup",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/thecoralproject/",
+    "session": "Engaging Communities From the Ground Up With The Coral Project",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Friday - 3:30 PM - 4:30 PM",
+    "location": "Olympic Ballroom I",
+    "hashtag": "#coralproject",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/createvr/",
+    "session": "Create Your Own Virtual Reality Journalism",
+    "track": "Developer Tools + Tech Track",
+    "date": "Friday - 3:00 PM - 4:30 PM",
+    "location": "Encino Room",
+    "hashtag": "#ONA15vr",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["3:00 PM", "4:30 PM"]
+  },
+  {
+    "link":
+      "https://ona15.journalists.org/sessions/projectsforsmallernewsrooms/",
+    "session": "Pulling Off Your Big Project In a Small(er) Newsroom",
+    "track": "Professional Development Track",
+    "date": "Friday - 2:00 PM - 3:00 PM",
+    "location": "Constellation Ballroom II",
+    "hashtag": "#smallnewsroom",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "link":
+      "https://ona15.journalists.org/sessions/datatoolsandracedemographics/",
+    "session":
+      "[RSVP] Learning Basic Data Tools by Crunching Race and Ethnicity Numbers",
+    "track": "Developer Tools + Tech Track",
+    "date": "Friday - 2:00 PM - 4:30 PM",
+    "location": "Malibu Room",
+    "hashtag": "#ONA15data101",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["2:00 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/botreporting/",
+    "session": "Build Bots to Boost Your Reporting",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday - 2:00 PM - 3:00 PM",
+    "location": "Constellation Ballroom I",
+    "hashtag": "#journoroboto",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/journo-techcommunity/",
+    "session": "The Journo-Tech Community Has Evolved, But How?",
+    "track": "Professional Development Track",
+    "date": "Friday - 2:00 PM - 3:00 PM",
+    "location": "Olympic Ballroom II",
+    "hashtag": "#ONA15journojobs",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/creatingnewsapps/",
+    "session": "Behind the Screens: Creating a Great News App",
+    "track": "Mobile Tools + Design Track",
+    "date": "Friday - 2:00 PM - 3:00 PM",
+    "location": "Santa Monica Room",
+    "hashtag": "#ONA15newsapp",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/snapchattraining2/",
+    "session": "[RSVP] Mobile Bootcamp: Snapchat (offered twice)",
+    "track": "Mobile Tools + Design Track",
+    "date": "Friday - 1:30 PM - 2:30 PM",
+    "location": "Encino Room",
+    "hashtag": "#ONA15snap",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["1:30 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/diversityworkshop/",
+    "session": "[RSVP] Diversity 2.0 Workshop: Getting in Here From Out There",
+    "track": "Professional Development Track",
+    "date": "Friday - 1:30 PM - 3:00 PM",
+    "location": "Sherman Oaks Room",
+    "hashtag": "#mediadiversity",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["1:30 PM", "3:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/factchecking/",
+    "session": "Journalism Fact-Checking 101 for the 2016 Elections",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday - 1:30 PM - 3:00 PM",
+    "location": "Westwood Room",
+    "hashtag": "#ONA15factcheck",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["1:30 PM", "3:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/fundyourwork/",
+    "session":
+      "Help Us Fund Your Work: Candid Advice from Funders Who Love You",
+    "track": "Revenue + Ethics Track",
+    "date": "Friday - 1:30 PM - 3:00 PM",
+    "location": "Los Angeles Room",
+    "hashtag": "#fundmedia",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["1:30 PM", "3:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/communityengagement/",
+    "session": "Community Engagement Models for More Inclusive Journalism",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday - 1:30 PM - 3:00 PM",
+    "location": "Olympic Ballroom I",
+    "hashtag": "#ONA15comm",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["1:30 PM", "3:00 PM"]
+  },
+  {
+    "link":
+      "https://ona15.journalists.org/sessions/tabletalksprofessionaldevelopment/",
+    "session": "Table Talks: Professional Development",
+    "track": "Professional Development Track",
+    "date": "Friday - 10:30 AM - 12:30 PM",
+    "location": "Santa Monica Room",
+    "hashtag": "#ONA15career",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["10:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/tabletalksteaching/",
+    "session": "Table Talks: Teaching + Training",
+    "track": "Teaching + Training Track",
+    "date": "Friday - 10:30 AM - 12:30 PM",
+    "location": "Beverly Hills Room",
+    "hashtag": "#ONA15edu",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["10:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/tabletalksmobile/",
+    "session": "Table Talks: Mobile Tools + Design",
+    "track": "Mobile Tools + Design Track",
+    "date": "Friday - 10:30 AM - 12:30 PM",
+    "location": "Constellation Ballrooms I+II",
+    "hashtag": "#ONA15mobile",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["10:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/tabletalksrevenueethics/",
+    "session": "Table Talks: Revenue + Ethics",
+    "track": "Revenue + Ethics Track",
+    "date": "Friday - 10:30 AM - 12:30 PM",
+    "location": "Constellation Ballrooms I+II",
+    "hashtag": "#ONA15revenue",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["10:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/tabletalksdevelopers/",
+    "session": "Table Talks: Developer Tools + Tech",
+    "track": "Developer Tools + Tech Track",
+    "date": "Friday - 10:30 AM - 12:30 PM",
+    "location": "Constellation Ballrooms I+II",
+    "hashtag": "#ONA15dev",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["10:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/tabletalksaudience/",
+    "session": "Table Talks: Audience Engagement + Impact",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Friday - 10:30 AM - 12:30 PM",
+    "location": "Beverly Hills Room",
+    "hashtag": "#ONA15engage",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["10:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/tabletalksreporters/",
+    "session": "Table Talks: Newsgathering Tools + Techniques",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday - 10:30 AM - 12:30 PM",
+    "location": "Olympic Ballrooms I+II",
+    "hashtag": "#ONA15tools",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["10:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/tabletalksav/",
+    "session": "Table Talks: Audio, Photo + Video",
+    "track": "Audio, Video + Photo Track",
+    "date": "Friday - 10:30 AM - 12:30 PM",
+    "location": "Olympic Ballrooms I+II",
+    "hashtag": "#ONAav",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["10:30 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/careerfairfri/",
+    "session": "Career Fair",
+    "track": "Professional Development Track",
+    "date": "Friday - 10:00 AM - 2:00 PM",
+    "location": "California Showroom",
+    "hashtag": "#ONA15jobs",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["10:00 AM", "2:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/antiharassmentkeynote/",
+    "session":
+      "KEYNOTE: We Belong Here: Pushing Back Against Online Harassment",
+    "track": "Professional Development Track",
+    "date": "Friday - 9:00 AM - 10:00 AM",
+    "location": "Los Angeles Room",
+    "hashtag": "#ONA15keynote",
+    "edition": "2015",
+    "day": "Friday",
+    "hours": ["9:00 AM", "10:00 AM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/darknet/",
+    "session": "Plunging Into The Dark Net",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 4:30 PM - 5:30 PM",
+    "location": "Beverly Hills Room",
+    "hashtag": "#ONA15darknet",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["4:30 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/betterdesign/",
+    "session": "5 Ways Design Can Make Your Newsroom Better",
+    "track": "Mobile Tools + Design Track",
+    "date": "Thursday - 4:30 PM - 5:30 PM",
+    "location": "Constellation Ballroom II",
+    "hashtag": "#ONA15design",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["4:30 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/periscopetraining2/",
+    "session": "[RSVP] Mobile Bootcamp: Periscope (offered twice)",
+    "track": "Mobile Tools + Design Track",
+    "date": "Thursday - 4:30 PM - 5:30 PM",
+    "location": "Palisades Room",
+    "hashtag": "#ONA15periscope",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["4:30 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/ethicsoffoodwriting/",
+    "session": "The Ethics of Food Writing: A Conversation with Jonathan Gold",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 4:30 PM - 5:30 PM",
+    "location": "Santa Monica Room",
+    "hashtag": "#ONA15gold",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["4:30 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/mjbear/",
+    "session": "MJ Bear Fellows Take Center Stage",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 4:30 PM - 5:30 PM",
+    "location": "Malibu Room",
+    "hashtag": "#mjbearfellows",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["4:30 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/commandandctrl/",
+    "session": "Command and CTRL",
+    "track": "Developer Tools + Tech Track",
+    "date": "Thursday - 4:30 PM - 5:30 PM",
+    "location": "Sherman Oaks Room",
+    "hashtag": "#ONA15cmd",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["4:30 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/plannednewsevents/",
+    "session":
+      "Olympic Training for Your Planned News Events From London to Rio",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 4:30 PM - 5:30 PM",
+    "location": "Olympic Ballroom II",
+    "hashtag": "#plannednews",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["4:30 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/measuringimpact/",
+    "session": "Moving the Needle: What’s Your Impact?",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Thursday - 4:30 PM - 5:30 PM",
+    "location": "Constellation Ballroom I",
+    "hashtag": "#ONA15impact",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["4:30 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/emailprivacy/",
+    "session":
+      "Privacy and Email and Servers, Oh My! An Under-the-Hood Look at the Internet",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 4:30 PM - 5:30 PM",
+    "location": "Olympic Ballroom I",
+    "hashtag": "#ONA15security",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["4:30 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/revenuereview/",
+    "session": "The Revenue Review: Memberships, Advertising and Events",
+    "track": "Revenue + Ethics Track",
+    "date": "Thursday - 4:30 PM - 5:30 PM",
+    "location": "Los Angeles Room",
+    "hashtag": "#newsrevenue",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["4:30 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/immersivelive/",
+    "session": "Sprinkling Pixie Dust on Immersive Events",
+    "track": "Revenue + Ethics Track",
+    "date": "Thursday - 3:00 PM - 4:00 PM",
+    "location": "Beverly Hills Room",
+    "hashtag": "#ONA15magic",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/musicjournalism/",
+    "session": "Music Journalism and the Beat of Disruption",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 3:00 PM - 4:00 PM",
+    "location": "Sherman Oaks Room",
+    "hashtag": "#ONA15music",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/yikyakandnews/",
+    "session":
+      "Yik Yak, Swamp Juice and the Importance of the Hyperlocal Conversation",
+    "track": "Mobile Tools + Design Track",
+    "date": "Thursday - 3:00 PM - 4:00 PM",
+    "location": "Los Angeles Room",
+    "hashtag": "#ONA15yy",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/municipalstateelections/",
+    "session": "2016 Election Coverage, from Mayors to Governors to Presidents",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 3:00 PM - 4:00 PM",
+    "location": "Constellation Ballroom II",
+    "hashtag": "#electionsONA15",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/challengefund/",
+    "session": "Collaborate + Innovate: Lessons from the Challenge Fund",
+    "track": "Teaching + Training Track",
+    "date": "Thursday - 3:00 PM - 4:00 PM",
+    "location": "Westwood Room",
+    "hashtag": "#hackcurriculum",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/legalpanel/",
+    "session": "The Legal Panel",
+    "track": "Revenue + Ethics Track",
+    "date": "Thursday - 3:00 PM - 4:00 PM",
+    "location": "Olympic Ballroom II",
+    "hashtag": "#ONA15law",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "4:00 PM"]
+  },
+  {
+    "link":
+      "https://ona15.journalists.org/sessions/intermediatepodcastworkshop/",
+    "session":
+      "[RSVP] Professionalizing Your Podcast: An Intermediate Workshop",
+    "track": "Audio, Video + Photo Track",
+    "date": "Thursday - 3:00 PM - 5:30 PM",
+    "location": "Encino Room",
+    "hashtag": "#ONA15pcast2",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/privacyrealtalk/",
+    "session": "Don’t Be The Leak: Protecting Our Sources and Ourselves",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 3:00 PM - 4:00 PM",
+    "location": "Santa Monica Room",
+    "hashtag": "#dontbetheleak",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/babyscreens/",
+    "session": "Big Stories, Baby Screens",
+    "track": "Mobile Tools + Design Track",
+    "date": "Thursday - 3:00 PM - 4:00 PM",
+    "location": "Constellation Ballroom I",
+    "hashtag": "#babyscreens",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/videotips/",
+    "session": "How NOT to Break the Bank with Video",
+    "track": "Audio, Video + Photo Track",
+    "date": "Thursday - 3:00 PM - 4:00 PM",
+    "location": "Olympic Ballroom I",
+    "hashtag": "#ONA15newsvid",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/darkmoney/",
+    "session": "Constructing a Dark Money Narrative for 2016 Elections",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 1:45 PM - 2:45 PM",
+    "location": "Constellation Ballroom I",
+    "hashtag": "#darkmoney16",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:45 PM", "2:45 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/simplenewsgraphics/",
+    "session": "Simple News Graphics for Reporters and Editors",
+    "track": "Mobile Tools + Design Track",
+    "date": "Thursday - 1:30 PM - 2:30 PM",
+    "location": "Sherman Oaks Room",
+    "hashtag": "#ONA15newsgraphics",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:30 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/presidentialrace2016/",
+    "session": "Presidential Race ‘16: Riding the Digital Campaign Bus",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 1:30 PM - 2:30 PM",
+    "location": "Los Angeles Room",
+    "hashtag": "#ONA15pol",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:30 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/diyethics/",
+    "session": "ONA Build Your Own Ethics Code",
+    "track": "Revenue + Ethics Track",
+    "date": "Thursday - 1:30 PM - 2:30 PM",
+    "location": "Westwood Room",
+    "hashtag": "#ONAethics",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:30 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/videodistribution/",
+    "session": "Reimagining Video Distribution for the Social Age",
+    "track": "Audio, Video + Photo Track",
+    "date": "Thursday - 1:30 PM - 2:30 PM",
+    "location": "Olympic Ballroom I",
+    "hashtag": "#reimaginevideo",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:30 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/50apps/",
+    "session": "50 Apps in 30 Minutes (+ 30 Minutes of Other Cool Stuff)",
+    "track": "Mobile Tools + Design Track",
+    "date": "Thursday - 1:30 PM - 2:30 PM",
+    "location": "Santa Monica Room",
+    "hashtag": "#50apps",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:30 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/instagramtraining/",
+    "session": "[RSVP] Mobile Bootcamp: Instagram (offered twice)",
+    "track": "Mobile Tools + Design Track",
+    "date": "Thursday - 1:30 PM - 2:30 PM",
+    "location": "Palisades Room",
+    "hashtag": "#ONA15insta",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:30 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/developingleadership/",
+    "session": "Developing Leaders for the New Normal",
+    "track": "Professional Development Track",
+    "date": "Thursday - 1:30 PM - 2:30 PM",
+    "location": "Olympic Ballroom II",
+    "hashtag": "#ONA15lead",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:30 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/audiencedevelopment/",
+    "session": "A Three-Part Plan for Audience Engagement",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Thursday - 1:30 PM - 2:30 PM",
+    "location": "Constellation Ballroom II",
+    "hashtag": "#ONA15plan",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:30 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/podcastingbasics/",
+    "session": "[RSVP] Creating Your First Podcast: A Beginner’s Workshop",
+    "track": "Audio, Video + Photo Track",
+    "date": "Thursday - 1:30 PM - 2:30 PM",
+    "location": "Encino Room",
+    "hashtag": "#ONA15pcast1",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:30 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/algorithmsandarduino/",
+    "session":
+      "[RSVP] Algorithms and Arduino: How to Make a Twitter Bot With an Audio Sensor",
+    "track": "Developer Tools + Tech Track",
+    "date": "Thursday - 1:30 PM - 4:00 PM",
+    "location": "Malibu Room",
+    "hashtag": "#ONA15bot",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:30 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/boardlightningtalks/",
+    "session": "ONA Board Candidate Lightning Round 2016",
+    "track": "Professional Development Track",
+    "date": "Thursday - 1:30 PM - 2:30 PM",
+    "location": "Beverly Hills Room",
+    "hashtag": "#ONAelects",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:30 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/careerfairthurs/",
+    "session": "Career Fair",
+    "track": "Professional Development Track",
+    "date": "Thursday - 1:00 PM - 5:00 PM",
+    "location": "California Showroom",
+    "hashtag": "#ONA15jobs",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["1:00 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/blacktwitter/",
+    "session": "Black Twitter and Beyond",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Los Angeles Room",
+    "hashtag": "#ONA15beyond",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/coding2016elections/",
+    "session": "Data for Dark Money in the 2016 Elections",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Encino Room",
+    "hashtag": "#data4money",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/audienceanalytics/",
+    "session": "Meaningful Measurement: An Audience-First Approach to Data",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Beverly Hills Room",
+    "hashtag": "#ONA15measure",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/snapchattraining/",
+    "session": "[RSVP] Mobile Bootcamp: Snapchat (offered twice)",
+    "track": "Mobile Tools + Design Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Palisades Room",
+    "hashtag": "#ONA15snap",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link":
+      "https://ona15.journalists.org/sessions/electionswithoutdevelopers/",
+    "session":
+      "You and What Developer Army? Local Election Coverage Without a Large Team",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Sherman Oaks Room",
+    "hashtag": "#ONA15voters",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/periscope/",
+    "session": "[RSVP] Mobile Bootcamp: Periscope (offered twice)",
+    "track": "Mobile Tools + Design Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Malibu Room",
+    "hashtag": "#ONA15periscope",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/empathyinthenewsroom/",
+    "session": "Changing Your Stylebook To Create a More Empathetic Newsroom",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Olympic Ballroom II",
+    "hashtag": "#stylebookupdate",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/planningforplatform/",
+    "session":
+      "Planning for Platform: Targeting Social Media Messages Across Different Channels",
+    "track": "Audience Engagement + Impact Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Constellation Ballroom I",
+    "hashtag": "#plan4platform",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/crowdeconomy/",
+    "session": "Journalism's New Role in the Crowd Economy",
+    "track": "Revenue + Ethics Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Olympic Ballroom I",
+    "hashtag": "#crowdecon",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/scheherazadetosnapchat/",
+    "session":
+      "From Scheherazade to Snapchat: Ancient Storytelling Practices that Win the Internet for Good",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Santa Monica Room",
+    "hashtag": "#ancientUX",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/jschoolculture/",
+    "session": "Building Digital Culture in J Schools",
+    "track": "Teaching + Training Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Constellation Ballroom II",
+    "hashtag": "#digjschool",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/vicarioustrauma/",
+    "session": "Blood on the Screen: Dealing with Vicarious Trauma Via UGC",
+    "track": "Revenue + Ethics Track",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Westwood Room",
+    "hashtag": "#ugctrauma",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona15.journalists.org/sessions/first-timerorientation/",
+    "session": "You're #1: ONA15 First-Timer Orientation",
+    "track": "Professional Development Track",
+    "date": "Thursday - 8:15 AM - 9:00 AM",
+    "location": "Olympic Ballrooms I + II",
+    "hashtag": "#1stONA",
+    "edition": "2015",
+    "day": "Thursday",
+    "hours": ["8:15 AM", "9:00 AM"]
+  }
+]

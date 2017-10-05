@@ -1,0 +1,1789 @@
+[
+  {
+    "link": "https://ona13.journalists.org/sessions/sparkfun-thursday/",
+    "session": "SparkFun Electronics Project Demos & Activities",
+    "track": "Workshop-demo",
+    "date": "Thursday - 10:00 AM - 5:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:00 AM", "5:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/mobile-and-breaking-news-challenges/",
+    "session":
+      "Mobile and Breaking News: New Challenges for News Information Visualizations",
+    "track": "Workshop",
+    "date": "Thursday - 8:30 AM - 11:30 AM",
+    "location": "A 706-707",
+    "hashtag": "#newsvis",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["8:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/thursday-help-desk/",
+    "session": "Help Desk",
+    "track": "All sessions →",
+    "date": "Thursday - 7:30 AM - 7:30 PM",
+    "location": "Marquis Foyer",
+    "hashtag": "#ona13help",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["7:30 AM", "7:30 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/git-for-journalists/",
+    "session": "[For Journalism] Git for Journalists",
+    "track": "Interactive",
+    "date": "Thursday - 10:00 AM - 1:00 PM",
+    "location": "International 10",
+    "hashtag": "#forjournalism",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:00 AM", "1:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/thursday-registration/",
+    "session": "Registration",
+    "track": "All sessions →",
+    "date": "Thursday - 7:30 AM - 7:30 PM",
+    "location": "Imperial Foyer",
+    "hashtag": "#ona13",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["7:30 AM", "7:30 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/fasttrack-video-2/",
+    "session":
+      "Fast Track Video Workshop 2: Video Editing — A Skill Worth Fine-Tuning",
+    "track": "Workshop",
+    "date": "Saturday - 4:15 PM - 5:00 PM",
+    "location": "International 4",
+    "hashtag": "#fasttrackvideo2",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/midway-whiskey-tasting/",
+    "session": "The 2nd Annual ONA Whiskey Tasting by Muck Rack",
+    "track": "All sessions →",
+    "date": "Saturday - 3:05 PM - 4:30 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["3:05 PM", "4:30 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/oja-banquet/",
+    "session": "Online Journalism Awards Banquet",
+    "track": "All sessions →",
+    "date": "Saturday - 7:00 PM - 10:00 PM",
+    "location": "Ballroom BCD",
+    "hashtag": "#oja2013",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["7:00 PM", "10:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/unconference-9/",
+    "session": "[Unconference Session] Our Journalism Class #throughglass",
+    "track": "All sessions →",
+    "date": "Saturday - 4:15 PM - 5:00 PM",
+    "location": "508",
+    "hashtag": "#onauncon",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/lightning-talks/",
+    "session": "Lightning Talks",
+    "track": "Lightning Talk",
+    "date": "Saturday - 4:00 PM - 5:00 PM",
+    "location": "Ballroom C",
+    "hashtag": "#ona13lt",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["4:00 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/are-pageviews-dead/",
+    "session": "\"Are Pageviews Dead?\"",
+    "track": "All sessions →",
+    "date": "Saturday - 2:45 PM - 3:45 PM",
+    "location": "401",
+    "hashtag": "#ONA13",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/fasttrack-video-1/",
+    "session": "Fast Track Video Workshop 1: Shooting Great Video",
+    "track": "Workshop",
+    "date": "Saturday - 2:45 PM - 3:45 PM",
+    "location": "International 4",
+    "hashtag": "#fasttrackvideo",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/unconference-10/",
+    "session":
+      "[Unconference Session] How We Made A Long-Form Storytelling Machine",
+    "track": "All sessions →",
+    "date": "Saturday - 2:45 PM - 3:45 PM",
+    "location": "508",
+    "hashtag": "#onauncon",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/unconference-8/",
+    "session": "[Unconference Session] Talk Nerdy to Me",
+    "track": "All sessions →",
+    "date": "Saturday - 2:45 PM - 3:45 PM",
+    "location": "503",
+    "hashtag": "#onauncon",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/sensor-journalism/",
+    "session": "Sensor Journalism",
+    "track": "Panel",
+    "date": "Saturday - 2:45 PM - 3:45 PM",
+    "location": "Ballroom D",
+    "hashtag": "#sensorjournos",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/disrupt-diversity/",
+    "session": "Disrupt Diversity",
+    "track": "All sessions →",
+    "date": "Saturday - 2:45 PM - 3:45 PM",
+    "location": "Ballroom C",
+    "hashtag": "#mediadiversity",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/saturday-lunch/",
+    "session": "Free Time / Midway",
+    "track": "All sessions →",
+    "date": "Saturday - 1:15 PM - 2:15 PM",
+    "location": "No Room",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["1:15 PM", "2:15 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/watchup-saturday/",
+    "session": "Watchup office hours at the Knight Village",
+    "track": "Office-hours",
+    "date": "Saturday - 12:00 PM - 1:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["12:00 PM", "1:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/midway-pitches-saturday/",
+    "session": "Midway Participant Pitches: Saturday",
+    "track": "Lightning Talk",
+    "date": "Saturday - 1:00 PM - 2:30 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["1:00 PM", "2:30 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/data-no-excuses/",
+    "session": "Data Journalism, No Excuses! With LA NACION Data",
+    "track": "Duo",
+    "date": "Saturday - 11:45 AM - 12:45 PM",
+    "location": "Ballroom C",
+    "hashtag": "#noexcusesdata",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/data-driven-map-with-tile-mill/",
+    "session": "Build Your First Data Driven Map with Tile Mill",
+    "track": "Workshop",
+    "date": "Saturday - 11:45 AM - 12:45 PM",
+    "location": "402",
+    "hashtag": "#1stdatamap",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/scaling-and-performance/",
+    "session": "Scaling and Performance",
+    "track": "Workshop",
+    "date": "Saturday - 11:45 AM - 12:45 PM",
+    "location": "401",
+    "hashtag": "#ona13scale",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/unconference-7/",
+    "session":
+      "[Unconference Session] What do you love (outside of journalism)?",
+    "track": "All sessions →",
+    "date": "Saturday - 11:45 AM - 12:45 PM",
+    "location": "508",
+    "hashtag": "#onauncon",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/finance-non-profit-journalism/",
+    "session": "Do the Math: How to Finance Non-Profit Journalism",
+    "track": "Workshop",
+    "date": "Saturday - 11:45 AM - 12:45 PM",
+    "location": "International 8",
+    "hashtag": "#ona13math",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/digital-millenials-take-center-stage/",
+    "session": "Digital Millennials Take Center Stage",
+    "track": "All sessions →",
+    "date": "Saturday - 11:45 AM - 12:45 PM",
+    "location": "International 4",
+    "hashtag": "#ona13centerstage",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/power-of-video-now/",
+    "session": "The Power of Video Now",
+    "track": "Interactive",
+    "date": "Saturday - 11:45 AM - 12:45 PM",
+    "location": "Ballroom D",
+    "hashtag": "#videoona13",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/new-ona-initiative/",
+    "session": "Social and Digital Newsgathering Working Group",
+    "track": "Discussion",
+    "date": "Saturday - 10:30 AM - 11:30 AM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/threat-modeling/",
+    "session": "Threat Modeling: Determining Digital Security for You",
+    "track": "All sessions →",
+    "date": "Saturday - 10:30 AM - 11:30 AM",
+    "location": "International 8",
+    "hashtag": "#threatmodel",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/ona-local-brainstorm/",
+    "session": "ONA Local Brainstorm",
+    "track": "All sessions →",
+    "date": "Saturday - 10:30 AM - 11:30 AM",
+    "location": "International 4",
+    "hashtag": "#onalocal",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/unconference-6/",
+    "session":
+      "[Unconference Session] Gesture Interfaces: The Next Frontier for News?",
+    "track": "All sessions →",
+    "date": "Saturday - 10:30 AM - 11:30 AM",
+    "location": "508",
+    "hashtag": "#onauncon",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/adopting-wp-in-the-newsroom/",
+    "session": "Adopting WordPress in the Newsroom",
+    "track": "Workshop",
+    "date": "Saturday - 10:30 AM - 11:30 AM",
+    "location": "International 6",
+    "hashtag": "#adoptwp",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/courage-under-digital-fire/",
+    "session": "Courage Under Digital Fire",
+    "track": "Panel",
+    "date": "Saturday - 10:30 AM - 11:30 AM",
+    "location": "Ballroom D",
+    "hashtag": "#journocourage",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/protecting-press-freedom/",
+    "session":
+      "Protecting All Acts of Journalism: Press Freedom and the Fifth Estate",
+    "track": "All sessions →",
+    "date": "Saturday - 10:30 AM - 11:30 AM",
+    "location": "Ballroom C",
+    "hashtag": "#5thestate",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/new-management-skills/",
+    "session": "The New Management Skills",
+    "track": "Duo",
+    "date": "Saturday - 10:30 AM - 11:30 AM",
+    "location": "Ballroom B",
+    "hashtag": "#newmgmtskills",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/readrboard-engagement-workshop/",
+    "session": "Make your page come alive",
+    "track": "Workshop",
+    "date": "Saturday - 10:00 AM - 11:00 AM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/keeping-under-the-security-radar/",
+    "session": "[For Journalism] Keeping Under the Security Radar",
+    "track": "Interactive",
+    "date": "Saturday - 10:00 AM - 1:00 PM",
+    "location": "International 10",
+    "hashtag": "#forjournalism",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "1:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/center-collaborative-journalism-saturday/",
+    "session":
+      "Center for Collaborative Journalism at Mercer office hours at the Knight Village",
+    "track": "Office-hours",
+    "date": "Saturday - 9:00 AM - 10:00 AM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["9:00 AM", "10:00 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/the-final-pitch/",
+    "session": "[NewU Startup Loft] The Final Pitch",
+    "track": "Workshop",
+    "date": "Saturday - 10:00 AM - 12:00 PM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/saturday-help-desk/",
+    "session": "Help Desk",
+    "track": "All sessions →",
+    "date": "Saturday - 7:30 AM - 5:00 PM",
+    "location": "Marquis Foyer",
+    "hashtag": "#ona13help",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["7:30 AM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/saturday-morning-keynote/",
+    "session": "KEYNOTE: Journalism in the Age of Surveillance",
+    "track": "Keynote",
+    "date": "Saturday - 9:00 AM - 10:00 AM",
+    "location": "Ballroom BCD",
+    "hashtag": "#ona13keynote",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["9:00 AM", "10:00 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/saturday-registration/",
+    "session": "Registration",
+    "track": "All sessions →",
+    "date": "Saturday - 7:30 AM - 5:00 PM",
+    "location": "Imperial Foyer",
+    "hashtag": "#ona13",
+    "edition": "2013",
+    "day": "Saturday",
+    "hours": ["7:30 AM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/friday-night-mixer/",
+    "session": "Friday Night Networking Mixer",
+    "track": "All sessions →",
+    "date": "Friday - 7:00 PM - 8:30 PM",
+    "location": "Ballroom D",
+    "hashtag": "#ona13",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["7:00 PM", "8:30 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/friday-evening-keynote/",
+    "session": "KEYNOTE: What Journalists Can Learn from Shine Theory",
+    "track": "Keynote",
+    "date": "Friday - 6:00 PM - 7:00 PM",
+    "location": "Ballroom B",
+    "hashtag": "#ona13shine",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["6:00 PM", "7:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/big-data-little-newsroom/",
+    "session": "Big Data, Little Newsroom",
+    "track": "Workshop",
+    "date": "Friday - 4:15 PM - 5:00 PM",
+    "location": "402",
+    "hashtag": "#ona13bigdata",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/unconference-4/",
+    "session": "[Unconference Session] All Abuzz: Making Mediapreneurs",
+    "track": "All sessions →",
+    "date": "Friday - 4:15 PM - 5:00 PM",
+    "location": "508",
+    "hashtag": "#onauncon",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/programmer-workflow/",
+    "session": "Programmer Workflow",
+    "track": "Workshop",
+    "date": "Friday - 4:15 PM - 5:00 PM",
+    "location": "401",
+    "hashtag": "#programmerwf",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/law-school-part-4/",
+    "session": "[Law School] Running a Digital News Business",
+    "track": "Interactive",
+    "date": "Friday - 4:15 PM - 5:00 PM",
+    "location": "International 8",
+    "hashtag": "#digitalnewsbiz",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/ok-glass-whats-news/",
+    "session": "OK Glass, What's News?",
+    "track": "Interactive",
+    "date": "Friday - 4:15 PM - 5:00 PM",
+    "location": "Ballroom B",
+    "hashtag": "#glass4news",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/device-agnostic-design/",
+    "session": "Responsive Design, Opportunities and Challenges",
+    "track": "Workshop",
+    "date": "Friday - 4:15 PM - 5:00 PM",
+    "location": "International 4",
+    "hashtag": "#agnosticdesign",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/sponsored-content-advertorials-native-advertising/",
+    "session":
+      "The $ Words: Sponsored Content, Advertorials & Native Advertising",
+    "track": "Panel",
+    "date": "Friday - 4:15 PM - 5:00 PM",
+    "location": "Ballroom D",
+    "hashtag": "#moneywords",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/open-source-in-the-newsroomm/",
+    "session": "Open Source in the Newsroom",
+    "track": "Duo",
+    "date": "Friday - 4:15 PM - 5:00 PM",
+    "location": "Ballroom C",
+    "hashtag": "#opensourcenews",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/storytelling-with-googles-mapping-tools/",
+    "session": "Storytelling with Google's Mapping Tools",
+    "track": "Workshop",
+    "date": "Friday - 4:15 PM - 5:00 PM",
+    "location": "International 6",
+    "hashtag": "#mapstories",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/ona-local-meetup/",
+    "session": "ONA Local Meetup",
+    "track": "All sessions →",
+    "date": "Friday - 4:00 PM - 5:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#onalocal",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["4:00 PM", "5:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/what-should-my-pitch-deck-look-like/",
+    "session": "[NewU Startup Loft] What Should My Pitch Deck Look Like?",
+    "track": "Workshop",
+    "date": "Friday - 4:10 PM - 5:00 PM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["4:10 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/art-of-the-pitch/",
+    "session": "[NewU Startup Loft] The Art Of The Pitch",
+    "track": "Workshop",
+    "date": "Friday - 3:15 PM - 4:00 PM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["3:15 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/truth-about-digital-first/",
+    "session": "The Truth About Digital First",
+    "track": "Workshop",
+    "date": "Friday - 2:45 PM - 3:45 PM",
+    "location": "403",
+    "hashtag": "#ONA13",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/unconference-3/",
+    "session": "[Unconference Session] Save People, Not Journalism",
+    "track": "All sessions →",
+    "date": "Friday - 2:45 PM - 3:45 PM",
+    "location": "508",
+    "hashtag": "#onauncon",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/unconference-5/",
+    "session":
+      "[Unconference Session] Tales from the ‘dark side’: Product management roundtable",
+    "track": "All sessions →",
+    "date": "Friday - 2:45 PM - 3:45 PM",
+    "location": "503",
+    "hashtag": "#onauncon",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/up-storytelling-game/",
+    "session":
+      "Up your storytelling game with these free tools for journalists",
+    "track": "Workshop",
+    "date": "Friday - 2:45 PM - 3:45 PM",
+    "location": "401",
+    "hashtag": "#storygame",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/law-school-part-3/",
+    "session": "[Law School] Newsroom Law",
+    "track": "Interactive",
+    "date": "Friday - 2:45 PM - 3:45 PM",
+    "location": "International 8",
+    "hashtag": "#newsroomlawschool",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/web-dev-literacy/",
+    "session": "Web Dev Literacy: Learn the language",
+    "track": "Workshop",
+    "date": "Friday - 2:45 PM - 3:45 PM",
+    "location": "402",
+    "hashtag": "#webdevliteracy",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/hack-the-curriculum/",
+    "session": "Hack the Curriculum",
+    "track": "Interactive",
+    "date": "Friday - 2:45 PM - 3:45 PM",
+    "location": "International 4",
+    "hashtag": "#hackcurriculum",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/what-is-photojournalism-worth/",
+    "session":
+      "If a Picture Is Worth a Thousand Words, What is Photojournalism Worth?",
+    "track": "Interactive",
+    "date": "Friday - 2:45 PM - 3:45 PM",
+    "location": "Ballroom C",
+    "hashtag": "#ona13photojourno",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/readrboard-live-demo/",
+    "session": "Readrboard live demo",
+    "track": "demo-office-hours",
+    "date": "Friday - 2:30 PM - 3:30 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:30 PM", "3:30 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/decision-2014/",
+    "session": "Decision 2014: Lightning Round",
+    "track": "Interactive",
+    "date": "Friday - 2:45 PM - 3:45 PM",
+    "location": "International 6",
+    "hashtag": "#onadecision",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/understanding-the-latino-boom/",
+    "session": "Understanding the Latino Boom",
+    "track": "Panel",
+    "date": "Friday - 2:45 PM - 3:45 PM",
+    "location": "Ballroom B",
+    "hashtag": "#latinoboom",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/a-map-to-mapping/",
+    "session": "[For Journalism] A Map to Mapping",
+    "track": "Interactive",
+    "date": "Friday - 2:30 PM - 5:30 PM",
+    "location": "International 10",
+    "hashtag": "#forjournalism",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:30 PM", "5:30 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/growth-hacking/",
+    "session": "[NewU Startup Loft] Growth Hacking",
+    "track": "Workshop",
+    "date": "Friday - 2:15 PM - 3:00 PM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:15 PM", "3:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/ask-the-ethicist-2/",
+    "session": "Ask the Ethicist: Meet Poynter's Kelly McBride",
+    "track": "Consult",
+    "date": "Friday - 2:00 PM - 4:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13ethics",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:00 PM", "4:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/wordpress-as-publishing-system/",
+    "session": "A Manager's Guide for Using WordPress as Publishing System",
+    "track": "Discussion",
+    "date": "Friday - 2:00 PM - 5:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["2:00 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/friday-lunch-keynote/",
+    "session": "KEYNOTE LUNCH: Nate Silver",
+    "track": "Keynote",
+    "date": "Friday - 1:15 PM - 2:15 PM",
+    "location": "Ballroom BCD",
+    "hashtag": "#ona13silver",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["1:15 PM", "2:15 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/groundsource-friday/",
+    "session": "GroundSource office hours at the Knight Village",
+    "track": "Office-hours",
+    "date": "Friday - 1:00 PM - 2:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["1:00 PM", "2:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/measuring-quality-content/",
+    "session":
+      "New data in the newsroom: Why time is the only real measure of quality content",
+    "track": "Discussion",
+    "date": "Friday - 12:45 PM - 1:15 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["12:45 PM", "1:15 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/find-stories-before-they-get-big/",
+    "session": "Find big stories while they're small",
+    "track": "Workshop",
+    "date": "Friday - 12:00 PM - 1:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["12:00 PM", "1:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/datadocs-friday/",
+    "session": "DataDocs office hours at the Knight Village",
+    "track": "Office-hours",
+    "date": "Friday - 12:00 PM - 1:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["12:00 PM", "1:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/knowledge-management-reimagined/",
+    "session":
+      "Knowledge management re-imagined: what can news outfits learn from enterprise 2.0?",
+    "track": "Discussion",
+    "date": "Friday - 11:45 AM - 12:45 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/pew-research-data/",
+    "session": "Pew Research, What Data Do You Have On... ?",
+    "track": "Office-hours",
+    "date": "Friday - 11:45 AM - 12:30 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:30 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/editorial-workflows-in-wp/",
+    "session": "Editorial Workflows in WordPress",
+    "track": "Workshop",
+    "date": "Friday - 11:45 AM - 12:45 PM",
+    "location": "International 6",
+    "hashtag": "#edflowwp",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/unconference-2/",
+    "session": "[Unconference Session] Creating A Slow News Movement",
+    "track": "All sessions →",
+    "date": "Friday - 11:45 AM - 12:45 PM",
+    "location": "508",
+    "hashtag": "#onauncon",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/innovative-storytelling-on-a-shoestring/",
+    "session": "Innovative Storytelling on a Shoestring",
+    "track": "Duo",
+    "date": "Friday - 11:45 AM - 12:45 PM",
+    "location": "Ballroom C",
+    "hashtag": "#lowcosttools",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/tabletop-js-and-handlebar/",
+    "session": "Building Digital News Projects with Tabletop.js and Handlebar",
+    "track": "Workshop",
+    "date": "Friday - 11:45 AM - 12:45 PM",
+    "location": "402",
+    "hashtag": "#buildnews",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/10-things-you-missed-in-cs-school/",
+    "session": "10 Things You Missed in CS School",
+    "track": "Workshop",
+    "date": "Friday - 11:45 AM - 12:45 PM",
+    "location": "401",
+    "hashtag": "#10csthings",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/law-school-part-2/",
+    "session": "[Law School] Copyright Law",
+    "track": "Interactive",
+    "date": "Friday - 11:45 AM - 12:45 PM",
+    "location": "International 8",
+    "hashtag": "#ona13copyright",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/bag-a-troll/",
+    "session": "Bag a Troll",
+    "track": "Solo",
+    "date": "Friday - 11:45 AM - 12:45 PM",
+    "location": "International 4",
+    "hashtag": "#bagatroll",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/covering-the-unthinkable/",
+    "session": "Covering the Unthinkable: School and Public Space Violence",
+    "track": "Panel",
+    "date": "Friday - 11:45 AM - 12:45 PM",
+    "location": "Ballroom D",
+    "hashtag": "#reportingunthinkable",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/show-me-the-money/",
+    "session": "[NewU Startup Loft] Show Me The Money: Angels Speak",
+    "track": "Workshop",
+    "date": "Friday - 11:45 AM - 12:45 PM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/wiring-research-into-media/",
+    "session": "Wiring research into media",
+    "track": "Demo",
+    "date": "Friday - 11:30 AM - 12:30 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/rise-of-the-new-revenue-models/",
+    "session": "Rise of the New Revenue Models",
+    "track": "Interactive",
+    "date": "Friday - 11:45 AM - 12:45 PM",
+    "location": "Ballroom B",
+    "hashtag": "#newrevmodels",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/cartodb-live-demo/",
+    "session": "CartoDB live demo",
+    "track": "demo-office-hours",
+    "date": "Friday - 10:45 AM - 11:45 AM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:45 AM", "11:45 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/law-school-part-1/",
+    "session": "[Law School] The Legal Panel",
+    "track": "Interactive",
+    "date": "Friday - 10:30 AM - 11:30 AM",
+    "location": "Ballroom D",
+    "hashtag": "#ona13legal",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/unconference-1/",
+    "session":
+      "[Unconference Session] Election Results and Polling for the Modern Age",
+    "track": "All sessions →",
+    "date": "Friday - 10:30 AM - 11:30 AM",
+    "location": "508",
+    "hashtag": "#onauncon",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/timeline-js/",
+    "session":
+      "Make beautiful responsive timelines with a Google Doc. Seriously.",
+    "track": "Workshop",
+    "date": "Friday - 10:30 AM - 11:30 AM",
+    "location": "403",
+    "hashtag": "#ona13timeline",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/constructing-meaningful-infographics/",
+    "session": "Constructing Meaningful Infographics",
+    "track": "Workshop",
+    "date": "Friday - 10:30 AM - 11:30 AM",
+    "location": "401",
+    "hashtag": "#ona13infographics",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/your-datas-showing/",
+    "session": "\"Ha, Your Data's Showing\"",
+    "track": "Workshop",
+    "date": "Friday - 10:30 AM - 11:30 AM",
+    "location": "402",
+    "hashtag": "#datashowing",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/if-i-f-stone-had-a-computer/",
+    "session":
+      "If I.F. Stone Had a Computer: Document Mining in the Digital Age",
+    "track": "Interactive",
+    "date": "Friday - 10:30 AM - 11:30 AM",
+    "location": "International 8",
+    "hashtag": "#ifdigital",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/collaboration-roi/",
+    "session": "Collaboration ROI: Who Do You Trust?",
+    "track": "Duo",
+    "date": "Friday - 10:30 AM - 11:30 AM",
+    "location": "International 6",
+    "hashtag": "#collaborationroi",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/topic-pages-liveblogs-story-streams/",
+    "session": "Optimizing Your Narrative: An Exploration of New Story Formats",
+    "track": "Interactive",
+    "date": "Friday - 10:30 AM - 11:30 AM",
+    "location": "International 4",
+    "hashtag": "#evolvingnarratives",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/bringing-tech-into-the-classrom/",
+    "session": "Bringing Tech into the Classroom",
+    "track": "Duo",
+    "date": "Friday - 10:30 AM - 11:30 AM",
+    "location": "Ballroom C",
+    "hashtag": "#ona13edtech",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/10-tech-trends/",
+    "session": "10 Tech Trends For Journalists",
+    "track": "Solo",
+    "date": "Friday - 10:30 AM - 11:30 AM",
+    "location": "Ballroom B",
+    "hashtag": "#10techtrends",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/ask-the-ethicist/",
+    "session": "Ask the Ethicist: Meet Poynter's Kelly McBride",
+    "track": "Consult",
+    "date": "Friday - 10:00 AM - 12:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13ethics",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/branding-you-and-your-company/",
+    "session": "[NewU Startup Loft] Branding: You and Your Company",
+    "track": "Workshop",
+    "date": "Friday - 10:15 AM - 11:30 AM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["10:15 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/friday-morning-open/",
+    "session": "Open / Midway",
+    "track": "All sessions →",
+    "date": "Friday - 8:45 AM - 10:00 AM",
+    "location": "No Room",
+    "hashtag": "#ONA13",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["8:45 AM", "10:00 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/friday-registration/",
+    "session": "Registration",
+    "track": "All sessions →",
+    "date": "Friday - 7:30 AM - 7:30 PM",
+    "location": "Imperial Foyer",
+    "hashtag": "#ona13",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["7:30 AM", "7:30 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/friday-help-desk/",
+    "session": "Help Desk",
+    "track": "All sessions →",
+    "date": "Friday - 7:30 AM - 7:30 PM",
+    "location": "Marquis Foyer",
+    "hashtag": "#ona13help",
+    "edition": "2013",
+    "day": "Friday",
+    "hours": ["7:30 AM", "7:30 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/opening-night-reception/",
+    "session": "Opening Night Reception at the Tabernacle",
+    "track": "All sessions →",
+    "date": "Thursday - 7:00 PM - 9:00 PM",
+    "location": "The Tabernacle",
+    "hashtag": "#ona13",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["7:00 PM", "9:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/digital-sleuthing/",
+    "session": "Digital Sleuthing with Free Tools",
+    "track": "Workshop",
+    "date": "Thursday - 4:15 PM - 5:00 PM",
+    "location": "402",
+    "hashtag": "#digsleuth",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/jazz-and-journalism/",
+    "session": "Jazz & Journalism: Improvising Innovation",
+    "track": "Core Conversation",
+    "date": "Thursday - 4:15 PM - 5:00 PM",
+    "location": "International 8",
+    "hashtag": "#journojazz",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/smart-news-dumb-phones/",
+    "session":
+      "Smart News, Dumb Phones: Reporting and Publishing for Mobile-Only Audiences",
+    "track": "Interactive",
+    "date": "Thursday - 4:15 PM - 5:00 PM",
+    "location": "International 6",
+    "hashtag": "#mobileonlyaud",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/before-you-launch/",
+    "session": "Before You Launch",
+    "track": "Core Conversation",
+    "date": "Thursday - 4:15 PM - 5:00 PM",
+    "location": "International 4",
+    "hashtag": "#ona13launch",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/crowdsourcing-the-experts/",
+    "session": "Crowdsourcing the Experts for UGC Gold",
+    "track": "Panel",
+    "date": "Thursday - 4:15 PM - 5:00 PM",
+    "location": "Ballroom D",
+    "hashtag": "#ugcgold",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/companies-practice-pitching/",
+    "session": "[NewU Startup Loft] The Warm-Up: Companies Practice Pitching",
+    "track": "Workshop",
+    "date": "Thursday - 4:15 PM - 5:15 PM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["4:15 PM", "5:15 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/tower-of-babel-problem/",
+    "session": "Data Journalism: The Tower of Babel Problem",
+    "track": "Solo",
+    "date": "Thursday - 4:15 PM - 5:00 PM",
+    "location": "Ballroom C",
+    "hashtag": "#datatower",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/drone-journalism-lab-thursday/",
+    "session": "Drone Journalism Lab office hours at the Knight Village",
+    "track": "Office-hours",
+    "date": "Thursday - 4:00 PM - 5:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["4:00 PM", "5:00 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/be-a-better-host-in-the-digital-space/",
+    "session": "How to Be a Better Host in the Digital Space",
+    "track": "Interactive",
+    "date": "Thursday - 4:15 PM - 5:00 PM",
+    "location": "Ballroom B",
+    "hashtag": "#digihost",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["4:15 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/speed-entrepreneurship/",
+    "session": "[NewU Startup Loft] Speed Entrepreneurship",
+    "track": "Workshop",
+    "date": "Thursday - 3:15 PM - 4:00 PM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["3:15 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/census-reporter-thursday/",
+    "session": "Census Reporter office hours at the Knight Village",
+    "track": "Office-hours",
+    "date": "Thursday - 3:00 PM - 4:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "4:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/new-views-live-blogs/",
+    "session": "New views for live blogs, a workshop and demo",
+    "track": "Workshop-demo",
+    "date": "Thursday - 3:00 PM - 3:45 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["3:00 PM", "3:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/open-source-templates-for-longform/",
+    "session":
+      "Building Open Source Templates for Longform, Or Snow Fall for All",
+    "track": "Workshop",
+    "date": "Thursday - 2:45 PM - 3:45 PM",
+    "location": "International 4",
+    "hashtag": "#snowfall4all",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/using-wp-to-structure-your-beat/",
+    "session": "Using WordPress to Structure your Beat",
+    "track": "Workshop",
+    "date": "Thursday - 2:45 PM - 3:45 PM",
+    "location": "401",
+    "hashtag": "#wp4yrbeat",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/need-data-for-my-story/",
+    "session": "I Need Data for My Story. Help.",
+    "track": "Workshop",
+    "date": "Thursday - 2:45 PM - 3:45 PM",
+    "location": "402",
+    "hashtag": "#storydata",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/online-code-of-ethics/",
+    "session": "Online Ethics",
+    "track": "Interactive",
+    "date": "Thursday - 2:45 PM - 3:45 PM",
+    "location": "International 8",
+    "hashtag": "#ona13ethics",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/just-the-right-size-enterprise-ama/",
+    "session": "Just-the-Right-Size Enterprise AMA",
+    "track": "Interactive",
+    "date": "Thursday - 2:45 PM - 3:45 PM",
+    "location": "International 6",
+    "hashtag": "#enterpriseama",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/8-bit-mode-and-space-invaders/",
+    "session":
+      "8-Bit Mode and Space Invaders ... Or, How to Put the Fun Back in News Apps",
+    "track": "Duo",
+    "date": "Thursday - 2:45 PM - 3:45 PM",
+    "location": "Ballroom D",
+    "hashtag": "#8bitapp",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/bring-your-social-game-to-the-pro-level/",
+    "session": "Bring Your Social Game to the Pro Level",
+    "track": "Workshop",
+    "date": "Thursday - 2:45 PM - 3:45 PM",
+    "location": "Ballroom C",
+    "hashtag": "#prolevelsocial",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/20-tips-to-turbocharge/",
+    "session":
+      "20 Tips to Turbocharge Your Mobile Efforts (Before It's Too Late)",
+    "track": "Panel",
+    "date": "Thursday - 2:45 PM - 3:45 PM",
+    "location": "Ballroom B",
+    "hashtag": "#20mobile",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:45 PM", "3:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/videolicious-thursday/",
+    "session": "Videolicious office hours at the Knight Village",
+    "track": "Office-hours",
+    "date": "Thursday - 2:00 PM - 3:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/visweek-create/",
+    "session": "Hackathon: Mobile and Breaking News with Visweek",
+    "track": "hackathon",
+    "date": "Thursday - 2:00 PM - 5:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ONA13",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/startup-mythbusting/",
+    "session": "[NewU Startup Loft] Startup MythBusting",
+    "track": "Workshop",
+    "date": "Thursday - 2:00 PM - 3:00 PM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/opennews-thursday/",
+    "session": "Knight-Mozilla OpenNews office hours at the Knight Village",
+    "track": "Office-hours",
+    "date": "Thursday - 1:00 PM - 2:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["1:00 PM", "2:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/midway-pitches-thursday/",
+    "session": "Midway Participant Pitches: Thursday",
+    "track": "Lightning Talk",
+    "date": "Thursday - 1:00 PM - 2:35 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["1:00 PM", "2:35 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/storytelling-with-data/",
+    "session": "[For Journalism] Storytelling with Data",
+    "track": "Interactive",
+    "date": "Thursday - 2:00 PM - 5:00 PM",
+    "location": "International 10",
+    "hashtag": "#forjournalism",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/thursday-job-fair/",
+    "session": "Job Fair",
+    "track": "All sessions →",
+    "date": "Thursday - 12:45 PM - 5:00 PM",
+    "location": "Marquis Ballroom A",
+    "hashtag": "#ona13jobs",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["12:45 PM", "5:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/thursday-lunch/",
+    "session": "Free Time / Midway",
+    "track": "All sessions →",
+    "date": "Thursday - 12:45 PM - 2:45 PM",
+    "location": "No Room",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["12:45 PM", "2:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/sunlight-foundation-thursday/",
+    "session": "Sunlight Foundation office hours at the Knight Village",
+    "track": "Office-hours",
+    "date": "Thursday - 12:00 PM - 1:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["12:00 PM", "1:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/you-and-your-team/",
+    "session": "[NewU Startup Loft] You and Your Team",
+    "track": "Workshop",
+    "date": "Thursday - 12:00 PM - 12:40 PM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["12:00 PM", "12:40 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/leverage-linkedin-build-professional-brand/",
+    "session": "Leverage LinkedIn to Build Your Professional Brand",
+    "track": "All sessions →",
+    "date": "Thursday - 11:45 AM - 12:45 PM",
+    "location": "402",
+    "hashtag": "#ONA13",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/practical-security-for-journalists/",
+    "session": "Practical Security For Journalists",
+    "track": "Interactive",
+    "date": "Thursday - 11:45 AM - 12:45 PM",
+    "location": "Ballroom C",
+    "hashtag": "#practicalsecurity",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/hosting-a-journo-hack-day/",
+    "session": "Journalism hack days need you. (Yes, you.)",
+    "track": "Workshop",
+    "date": "Thursday - 11:45 AM - 12:45 PM",
+    "location": "International 4",
+    "hashtag": "#journohack",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/building-apps-in-wp/",
+    "session": "Building Apps in WordPress",
+    "track": "Workshop",
+    "date": "Thursday - 11:45 AM - 12:45 PM",
+    "location": "401",
+    "hashtag": "#appswp",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/broke-the-article-machine/",
+    "session": "Oops, We Broke the Article Machine: Imagining What Comes Next",
+    "track": "Interactive",
+    "date": "Thursday - 11:45 AM - 12:45 PM",
+    "location": "International 6",
+    "hashtag": "#articlemachine",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/closing-the-digital-and-data-divide/",
+    "session":
+      "Closing the Digital and Data Divide: Data Journalism in Developing Countries",
+    "track": "Interactive",
+    "date": "Thursday - 11:45 AM - 12:45 PM",
+    "location": "International 8",
+    "hashtag": "#datadivide",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/analytics-the-big-picture/",
+    "session": "Analytics in the Newsroom: What's Next?",
+    "track": "Panel",
+    "date": "Thursday - 11:45 AM - 12:45 PM",
+    "location": "Ballroom D",
+    "hashtag": "#analytics4news",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/breaking-news-real-time-takeaways/",
+    "session":
+      "Breaking News: Real-Time Takeaways From the Boston Marathon Bombing Coverage",
+    "track": "Panel",
+    "date": "Thursday - 11:45 AM - 12:45 PM",
+    "location": "Ballroom B",
+    "hashtag": "#onabreaking",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["11:45 AM", "12:45 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/smart-content-thursday/",
+    "session": "Making content smart with MCT and Smartlogic",
+    "track": "Demo",
+    "date": "Thursday - 11:15 AM - 12:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["11:15 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/tor-project-thursday/",
+    "session": "Tor Project office hours at the Knight Village",
+    "track": "Office-hours",
+    "date": "Thursday - 11:00 AM - 12:00 PM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/im-just-getting-started/",
+    "session": "[NewU Startup Loft] I'm Just Getting Started. What Do I Do?",
+    "track": "Workshop",
+    "date": "Thursday - 11:10 AM - 11:45 AM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["11:10 AM", "11:45 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/broadcast-for-all-multi-screen/",
+    "session": "Broadcast for All: Mastering Multi-Screen Production",
+    "track": "Interactive",
+    "date": "Thursday - 10:30 AM - 11:30 AM",
+    "location": "Ballroom D",
+    "hashtag": "#broadcast4all",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/linkedin-for-journalists-tutorial/",
+    "session": "LinkedIn for Journalists Tutorial",
+    "track": "All sessions →",
+    "date": "Thursday - 10:30 AM - 11:30 AM",
+    "location": "402",
+    "hashtag": "#ONA13",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/getting-started-with-wp/",
+    "session": "Getting Started with WordPress",
+    "track": "Workshop",
+    "date": "Thursday - 10:30 AM - 11:30 AM",
+    "location": "401",
+    "hashtag": "#wp4news",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/a-fragile-trust/",
+    "session":
+      "A FRAGILE TRUST: Public Faith in the Media -- Where Have We Been, Where Are We Going?",
+    "track": "Interactive",
+    "date": "Thursday - 10:30 AM - 11:30 AM",
+    "location": "International 4",
+    "hashtag": "#fragiletrust",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/civic-info-to-civic-narrative/",
+    "session": "Turning Civic Information Into Civic Narrative",
+    "track": "Interactive",
+    "date": "Thursday - 10:30 AM - 11:30 AM",
+    "location": "International 8",
+    "hashtag": "#civicnarrative",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/audio-everywhere-radio/",
+    "session": "Audio Everywhere: Radio in the Digital Age",
+    "track": "Interactive",
+    "date": "Thursday - 10:30 AM - 11:30 AM",
+    "location": "International 6",
+    "hashtag": "#audioeverywhere",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/awesome-ize-your-mobile-toolkit/",
+    "session": "21 Ways to Awesome-ize Your Mobile Toolkit",
+    "track": "Panel",
+    "date": "Thursday - 10:30 AM - 11:30 AM",
+    "location": "Ballroom C",
+    "hashtag": "#mobile1st",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/lessons-from-humans-design-that-works/",
+    "session": "Lessons From Humans: Design That Works",
+    "track": "Solo",
+    "date": "Thursday - 10:30 AM - 11:30 AM",
+    "location": "Ballroom B",
+    "hashtag": "#designthink",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:30 AM", "11:30 AM"]
+  },
+  {
+    "link":
+      "https://ona13.journalists.org/sessions/am-i-really-an-entrepreneur/",
+    "session":
+      "[NewU Startup Loft] Opening Sermon: Am I Really an Entrepreneur?",
+    "track": "Workshop",
+    "date": "Thursday - 10:15 AM - 11:00 AM",
+    "location": "International 1-3",
+    "hashtag": "#ona13newu",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:15 AM", "11:00 AM"]
+  },
+  {
+    "link": "https://ona13.journalists.org/sessions/witness-thursday/",
+    "session":
+      "InformaCam: Sign, Seal, and Securely Deliver Media from Citizens and Photojournalists in the Field",
+    "track": "Office-hours",
+    "date": "Thursday - 10:00 AM - 11:00 AM",
+    "location": "Imperial Ballroom",
+    "hashtag": "#ona13mw",
+    "edition": "2013",
+    "day": "Thursday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  }
+]
