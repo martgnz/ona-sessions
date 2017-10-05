@@ -1,34 +1,46 @@
 const fs = require("fs");
-const d3 = require("d3");
-const jsdom = require("jsdom/lib/old-api.js");
+const osmosis = require("osmosis");
 
-const url =
-  "https://ona17.journalists.org/track/audience-engagement-analytics/";
+function scrapeONA(url, edition) {
+  return new Promise((resolve, reject) => {
+    let sessions = [];
 
-jsdom.env(url, function(error, window) {
-  if (error) throw error;
-  const page = d3.select(window.document);
+    osmosis
+      .get(url)
+      .find(".session-list a")
+      .follow("@href")
+      .find(".entry-title")
+      .set("session")
+      .find(".session-meta .track + li a")
+      .set("track")
+      .filter("node():not(:contains('All sessions →'))")
+      .find(".day")
+      .set("date")
+      .find(".room")
+      .set("location")
+      .find(".hash a")
+      .set("hashtag")
+      .data(d => {
+        d.edition = edition;
+        d.day = d.date.split(/[-–]/)[0].trim();
+        d.hours = [d.date.split(/[-–]/)[1], d.date.split(/[-–]/)[2]].map(v =>
+          v.trim()
+        );
 
-  var sessions = [];
-
-  page.selectAll(".single-session").each(function() {
-    var el = d3.select(this);
-
-    sessions.push({
-      title: el.select(".session-title").text(),
-      location: el
-        .select(".meta")
-        .text()
-        .split("|")[0],
-      hashtag: el
-        .select(".meta")
-        .text()
-        .split("|")[1],
-      categories: ["audience", "engagement", "analytics"]
-    });
+        sessions.push(d);
+      })
+      .done(() => resolve(sessions));
   });
+}
 
-  fs.writeFile("output.json", JSON.stringify(sessions), function(err) {
+scrapeONA("https://ona17.journalists.org/sessions/", "2017").then(data =>
+  fs.writeFile("data/ona17.json", JSON.stringify(data), function(err) {
     console.log("File successfully written 👌");
-  });
-});
+  })
+);
+
+scrapeONA("https://ona16.journalists.org/sessions/", "2016").then(data =>
+  fs.writeFile("data/ona16.json", JSON.stringify(data), function(err) {
+    console.log("File successfully written 👌");
+  })
+);

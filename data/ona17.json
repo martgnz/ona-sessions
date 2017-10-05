@@ -1,0 +1,907 @@
+[
+  {
+    "session":
+      "ONA U: Student Mini Conference at American University [Sponsored]",
+    "track": "Teaching + Training Track",
+    "date": "Wednesday – 5:00 PM – 9:00 PM",
+    "location": "American University School of Communication",
+    "hashtag": "#ONAU",
+    "edition": "2017",
+    "day": "Wednesday",
+    "hours": ["5:00 PM", "9:00 PM"]
+  },
+  {
+    "session":
+      "Disrupting the Misinformation Network, Hosted by Storyful [Sponsored]",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Wednesday – 6:30 PM – 8:00 PM",
+    "location": "Virginia A+B",
+    "hashtag": "#ONA17misinfo",
+    "edition": "2017",
+    "day": "Wednesday",
+    "hours": ["6:30 PM", "8:00 PM"]
+  },
+  {
+    "session": "No, You're a Lying Werewolf",
+    "track": "Career Building Track",
+    "date": "Saturday – 4:00 PM – 5:00 PM",
+    "location": "Washington 2",
+    "hashtag": "#ONA17werewolf",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["4:00 PM", "5:00 PM"]
+  },
+  {
+    "session": "Lightning Talks",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Saturday – 4:00 PM – 5:00 PM",
+    "location": "Delaware Suite",
+    "hashtag": "#ONA17lt",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["4:00 PM", "5:00 PM"]
+  },
+  {
+    "session": "Hunting, Gathering and Accounting: Freelance Survival Skills",
+    "track": "Career Building Track",
+    "date": "Saturday – 4:00 PM – 5:00 PM",
+    "location": "Maryland A+B",
+    "hashtag": "#ONA17freelance",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["4:00 PM", "5:00 PM"]
+  },
+  {
+    "session":
+      "Why opinion journalism isn’t fake news [Sponsored - NBC Universal]",
+    "track": "Business: Revenue + Ethics Track",
+    "date": "Saturday – 4:00 PM – 5:00 PM",
+    "location": "Virginia A+B",
+    "hashtag": "#ONA17",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["4:00 PM", "5:00 PM"]
+  },
+  {
+    "session": "KEYNOTE: When Satire Is the Most Effective Political Coverage",
+    "track": "Keynote Track",
+    "date": "Saturday – 2:30 PM – 3:30 PM",
+    "location": "Marriott Ballroom Salon 3",
+    "hashtag": "#ONA17satire",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["2:30 PM", "3:30 PM"]
+  },
+  {
+    "session":
+      "YouTube: Building a Sustainable Video Business [Sponsored by Google]",
+    "track": "Business: Revenue + Ethics Track",
+    "date": "Saturday – 1:00 PM – 2:00 PM",
+    "location": "Virginia A+B",
+    "hashtag": "#ONA17video",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["1:00 PM", "2:00 PM"]
+  },
+  {
+    "session": "Sharing Data and Insights for More Engaging Local Journalism",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Saturday – 11:30 AM – 12:30 PM",
+    "location": "Maryland A+B",
+    "hashtag": "#ONA17data",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "session": "Dos and Don’ts for Facebook Live",
+    "track": "Audio, Video, Photo + Immersive Track",
+    "date": "Saturday – 11:30 AM – 12:30 PM",
+    "location": "Delaware Suite",
+    "hashtag": "#ONA17fblive",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "session": "Playful Tech in the J-School Classroom",
+    "track": "Teaching + Training Track",
+    "date": "Saturday – 11:30 AM – 12:30 PM",
+    "location": "Washington 2",
+    "hashtag": "#ONA17teachtech",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "session": "Under the Hood: Re-Imagining Legacy Newsrooms",
+    "track": "Business: Revenue + Ethics Track",
+    "date": "Saturday – 11:30 AM – 12:30 PM",
+    "location": "Marriott Ballroom Salon 2",
+    "hashtag": "#ONA17legacy",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "session": "Hacking the Square: Fitting Big Journalism on Instagram",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Saturday – 11:30 AM – 12:30 PM",
+    "location": "Washington 1",
+    "hashtag": "#ONA17insta",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "session":
+      "Pushes of Note: Best Practices in Mobile Notifications [Sponsored by Knight Foundation]",
+    "track": "Mobile Tools + Design Track",
+    "date": "Saturday – 11:30 AM – 12:30 PM",
+    "location": "Virginia A+B",
+    "hashtag": "#ONA17push",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "session": "Workflow Automation Tools for Newsrooms of Any Size",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Saturday – 11:30 AM – 12:30 PM",
+    "location": "Maryland C",
+    "hashtag": "#ONA17workflow",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "session": "[RSVP] Build-a-Bot Workshop",
+    "track": "Developer Tools + Tech Track",
+    "date": "Saturday – 11:30 AM – 12:30 PM",
+    "location": "Washington 5",
+    "hashtag": "#ONA17buildabot",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "session": "Journalism 360 Immersive Storytelling Festival",
+    "track": "Audio, Video, Photo + Immersive Track",
+    "date": "Saturday – 11:00 AM – 2:00 PM",
+    "location": "Washington 6",
+    "hashtag": "#ONA17MW",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["11:00 AM", "2:00 PM"]
+  },
+  {
+    "session": "Fail Fest: Entrepreneur Edition",
+    "track": "Business: Revenue + Ethics Track",
+    "date": "Saturday – 10:00 AM – 11:00 AM",
+    "location": "Delaware Suite",
+    "hashtag": "#ONA17failfest",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "session": "10 Tech Trends in Journalism: 10th Anniversary Edition!",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Saturday – 10:00 AM – 11:00 AM",
+    "location": "Marriott Ballroom Salon 3",
+    "hashtag": "#ONA17trends",
+    "edition": "2017",
+    "day": "Saturday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "session": "KEYNOTE: Fireside Chat with Medium CEO Ev Williams",
+    "track": "Keynote Track",
+    "date": "Friday – 5:00 PM – 6:00 PM",
+    "location": "Marriott Ballroom Salon 3",
+    "hashtag": "#ONA17biz",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["5:00 PM", "6:00 PM"]
+  },
+  {
+    "session": "$$$: Emerging Technologies to Monetize Your Content [Midway]",
+    "track": "Business: Revenue + Ethics Track",
+    "date": "Friday – 3:30 PM – 4:30 PM",
+    "location": "Washington 6",
+    "hashtag": "#ONA17mw",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "Under the Hood: Innovative Projects with Small Teams",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday – 3:30 PM – 4:30 PM",
+    "location": "Marriott Ballroom Salon 1",
+    "hashtag": "#ONA17small",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "Educators Meetup: Disrupt J-Ed and More",
+    "track": "Teaching + Training Track",
+    "date": "Friday – 3:30 PM – 5:00 PM",
+    "location": "Washington 5",
+    "hashtag": "#ONAedu",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["3:30 PM", "5:00 PM"]
+  },
+  {
+    "session": "What Product and News Designers Can Learn From Each Other",
+    "track": "Mobile Tools + Design Track",
+    "date": "Friday – 3:30 PM – 4:30 PM",
+    "location": "Washington 2",
+    "hashtag": "#ONA17learn",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "The Legal Panel",
+    "track": "Business: Revenue + Ethics Track",
+    "date": "Friday – 3:30 PM – 4:30 PM",
+    "location": "Washington 1",
+    "hashtag": "#ONA17law",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "Innovations in Fact-Checking Your Government",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday – 3:30 PM – 4:30 PM",
+    "location": "Maryland A+B",
+    "hashtag": "#ONA17govcheck",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session":
+      "When Investigative Gets Immersive: Exploring Scientific Storytelling with Journalism 360 [Sponsored - Knight Foundation]",
+    "track": "Audio, Video, Photo + Immersive Track",
+    "date": "Friday – 3:30 PM – 4:30 PM",
+    "location": "Virginia A+B",
+    "hashtag": "#ONA17360",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "Make It and Take It Engagement Strategy Workshop",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Friday – 3:30 PM – 4:30 PM",
+    "location": "Delaware Suite",
+    "hashtag": "#ONA17engagement",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "The Art of Getting S**t Done",
+    "track": "Career Building Track",
+    "date": "Friday – 3:30 PM – 4:30 PM",
+    "location": "Marriott Ballroom Salon 3",
+    "hashtag": "#ONA17GSD",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session":
+      "Maps and More: Engage Your Audience Through Data Visualization [Midway]",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Friday – 2:00 PM – 3:00 PM",
+    "location": "Washington 6",
+    "hashtag": "#ONA17MW",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "Under the Hood: Epic Projects for Epic Newsrooms",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday – 2:00 PM – 3:00 PM",
+    "location": "Marriott Ballroom Salon 1",
+    "hashtag": "#ONA17epic",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session":
+      "[RSVP] Workshop for Inclusive Recruitment, Hiring and Retention",
+    "track": "Career Building Track",
+    "date": "Friday – 2:00 PM – 4:30 PM",
+    "location": "Maryland C",
+    "hashtag": "#ONA17inclusive",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["2:00 PM", "4:30 PM"]
+  },
+  {
+    "session": "We Have the Audience, So Show Us the Money",
+    "track": "Business: Revenue + Ethics Track",
+    "date": "Friday – 2:00 PM – 3:00 PM",
+    "location": "Maryland A+B",
+    "hashtag": "#ONA17startups",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session":
+      "Thoughtful Testing: How to Ask the Right Questions in A/B Tests",
+    "track": "Developer Tools + Tech Track",
+    "date": "Friday – 2:00 PM – 3:00 PM",
+    "location": "Washington 2",
+    "hashtag": "#ONA17tests",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "Small Changes That Made a Big Difference in Local Newsrooms",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday – 2:00 PM – 3:00 PM",
+    "location": "Washington 1",
+    "hashtag": "#ONA17localnews",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "So You Want to Teach in Academia?",
+    "track": "Teaching + Training Track",
+    "date": "Friday – 2:00 PM – 3:00 PM",
+    "location": "Washington 5",
+    "hashtag": "#ONA17academia",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session":
+      "Discovery and Storytelling with CrowdTangle and Instagram [Sponsored - Facebook]",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Friday – 2:00 PM – 3:00 PM",
+    "location": "Virginia A+B",
+    "hashtag": "#ONA17instagram",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "Under the Hood: Connecting Our Polarized Communities",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday – 2:00 PM – 3:00 PM",
+    "location": "Marriott Ballroom Salon 2",
+    "hashtag": "#ONA17divide",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "Stories are the New Story: Making Vertical Content Work",
+    "track": "Mobile Tools + Design Track",
+    "date": "Friday – 2:00 PM – 3:00 PM",
+    "location": "Delaware Suite",
+    "hashtag": "#ONA17vertical",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session":
+      "Innovative Solutions to Drive Meaningful, Measurable Audience Engagement [Midway]",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Friday – 1:00 PM – 2:00 PM",
+    "location": "Washington 6",
+    "hashtag": "#ONA17MW",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["1:00 PM", "2:00 PM"]
+  },
+  {
+    "session":
+      "Audience Engagement Through Video: Live, Mobile and More [Midway]",
+    "track": "Audio, Video, Photo + Immersive Track",
+    "date": "Friday – 12:00 PM – 1:00 PM",
+    "location": "Washington 6",
+    "hashtag": "#ONA17MW",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["12:00 PM", "1:00 PM"]
+  },
+  {
+    "session":
+      "A Conversation With NPR About Ethics: Has a Polarized Climate Changed Journalism? [Sponsored]",
+    "track": "Business: Revenue + Ethics Track",
+    "date": "Friday – 11:30 AM – 12:30 PM",
+    "location": "Virginia A+B",
+    "hashtag": "#NPR2017ONA",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["11:30 AM", "12:30 PM"]
+  },
+  {
+    "session": "Table Talks: Mobile Tools + Design",
+    "track": "Mobile Tools + Design Track",
+    "date": "Friday – 10:00 AM – 12:00 PM",
+    "location": "Maryland A+B",
+    "hashtag": "#ONA17",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "session":
+      "Digital Interaction with News: How to Use AI and Bots in Your Newsroom [Midway]",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday – 10:00 AM – 11:00 AM",
+    "location": "Washington 6",
+    "hashtag": "#ONA17MW",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "session":
+      "New Approaches to Analytics: AI, Eye Tracking and More [Midway]",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Friday – 11:00 AM – 12:00 PM",
+    "location": "Washington 6",
+    "hashtag": "#ONA17MW",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Table Talks: Career Building",
+    "track": "Career Building Track",
+    "date": "Friday – 10:00 AM – 12:00 PM",
+    "location": "Marriott Ballroom Salon 2",
+    "hashtag": "#ONA17",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "[RSVP] Learn How to Build an Alexa Skill",
+    "track": "Developer Tools + Tech Track",
+    "date": "Friday – 10:00 AM – 12:00 PM",
+    "location": "Washington 5",
+    "hashtag": "#ONA17voice",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Table Talks: Developer Tools + Tech",
+    "track": "Developer Tools + Tech Track",
+    "date": "Friday – 10:00 AM – 12:00 PM",
+    "location": "Maryland A+B",
+    "hashtag": "#ONA17",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Table Talks: Newsgathering Tools + Techniques",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday – 10:00 AM – 12:00 PM",
+    "location": "Marriott Ballroom Salon 1",
+    "hashtag": "#ONA17",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Table Talks: Teaching + Training",
+    "track": "Teaching + Training Track",
+    "date": "Friday – 10:00 AM – 12:00 PM",
+    "location": "Maryland A+B",
+    "hashtag": "#ONA17",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Table Talks: Business: Revenue + Ethics",
+    "track": "Business: Revenue + Ethics Track",
+    "date": "Friday – 10:00 AM – 12:00 PM",
+    "location": "Marriott Ballroom Salon 2",
+    "hashtag": "#ONA17",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Table Talks: Audio, Video, Photo + Immersive",
+    "track": "Audio, Video, Photo + Immersive Track",
+    "date": "Friday – 10:00 AM – 12:00 PM",
+    "location": "Delaware Suite",
+    "hashtag": "#ONA17",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Table Talks: Audience Engagement + Analytics",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Friday – 10:00 AM – 12:00 PM",
+    "location": "Marriott Ballroom Salon 1",
+    "hashtag": "#ONA17",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["10:00 AM", "12:00 PM"]
+  },
+  {
+    "session":
+      "All Journalism Starts Local - Making it Count [Sponsored - Google]",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Friday – 10:00 AM – 11:00 AM",
+    "location": "Virginia A+B",
+    "hashtag": "#ONA17golocal",
+    "edition": "2017",
+    "day": "Friday",
+    "hours": ["10:00 AM", "11:00 AM"]
+  },
+  {
+    "session":
+      "Newsworthy! The Results of the First Global Study on Newsroom Tech and Reception",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday – 5:00 PM – 6:30 PM",
+    "location": "Washington 5",
+    "hashtag": "#ONA17newstech",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["5:00 PM", "6:30 PM"]
+  },
+  {
+    "session":
+      "Find Information Better: New Ways to Research and Access Information [Midway]",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday – 3:30 PM – 4:30 PM",
+    "location": "Washington 6",
+    "hashtag": "#ONA17mw",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "Under the Hood: IRE Takeover on Data Tricks and Tactics",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday – 3:30 PM – 4:30 PM",
+    "location": "Marriott Ballroom Salon 1",
+    "hashtag": "#ONA17IRE",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "Under the Hood: Career Advice for The Rest of Us",
+    "track": "Career Building Track",
+    "date": "Thursday – 3:30 PM – 4:30 PM",
+    "location": "Marriott Ballroom Salon 2",
+    "hashtag": "#ONA17career",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session":
+      "Digital Journalism Insights: Lightning Talks from ONA Board Candidates and VIP Meetup",
+    "track": "Career Building Track",
+    "date": "Thursday – 3:30 PM – 5:00 PM",
+    "location": "Maryland A+B",
+    "hashtag": "#ONAelects",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["3:30 PM", "5:00 PM"]
+  },
+  {
+    "session": "Producing Editorial Events Ethically",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday – 3:30 PM – 4:30 PM",
+    "location": "Washington 5",
+    "hashtag": "#ONA17events",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "Creating and Capturing Value on Facebook [Sponsored]",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday – 3:30 PM – 4:30 PM",
+    "location": "Virginia A+B",
+    "hashtag": "#ONA17fb",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "Creating the Next Generation of Product Thinkers",
+    "track": "Teaching + Training Track",
+    "date": "Thursday – 3:30 PM – 4:30 PM",
+    "location": "Washington 2",
+    "hashtag": "#ONA17product",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "Government Propaganda and Media Manipulation",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday – 3:30 PM – 4:30 PM",
+    "location": "Delaware Suite",
+    "hashtag": "#ONA17truth",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "ICFJ and Vox Media present: Steal My Tool [Midway]",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday – 2:00 PM – 3:00 PM",
+    "location": "Washington 6",
+    "hashtag": "#ONA17MW",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "What Kind of Local News Business Do You Want to Build?",
+    "track": "Business: Revenue + Ethics Track",
+    "date": "Thursday – 3:30 PM – 4:30 PM",
+    "location": "Maryland C",
+    "hashtag": "#ONA17localbiz",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["3:30 PM", "4:30 PM"]
+  },
+  {
+    "session": "Podcast Search Party: Casting for New Listeners",
+    "track": "Audio, Video, Photo + Immersive Track",
+    "date": "Thursday – 2:00 PM – 3:00 PM",
+    "location": "Maryland A+B",
+    "hashtag": "#ONA17audio",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "Storytelling Beyond the Screens [Sponsored] - Gannett Workshop",
+    "track": "Mobile Tools + Design Track",
+    "date": "Thursday – 2:00 PM – 4:30 PM",
+    "location": "Washington 1",
+    "hashtag": "#ONA17Gannett",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "4:30 PM"]
+  },
+  {
+    "session":
+      "Journalism 360: Creating Immersive Content on a Shoestring Budget",
+    "track": "Audio, Video, Photo + Immersive Track",
+    "date": "Thursday – 2:00 PM – 3:00 PM",
+    "location": "Washington 5",
+    "hashtag": "#ONA17VR",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "Optimizing for Trust in News",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Thursday – 2:00 PM – 3:00 PM",
+    "location": "Marriott Ballroom Salon 3",
+    "hashtag": "#trustjourno",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "Under the Hood: 5 Takes on Revenue",
+    "track": "Business: Revenue + Ethics Track",
+    "date": "Thursday – 2:00 PM – 3:00 PM",
+    "location": "Marriott Ballroom Salon 2",
+    "hashtag": "#ONA17rev",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "Under the Hood: Broadcast Teams Tackling Digital Content",
+    "track": "Audio, Video, Photo + Immersive Track",
+    "date": "Thursday – 2:00 PM – 3:00 PM",
+    "location": "Marriott Ballroom Salon 1",
+    "hashtag": "#ONA17broadcast",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "How Bots are Deepening Relationships with Readers",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday – 2:00 PM – 3:00 PM",
+    "location": "Washington 2",
+    "hashtag": "#ONA17bots",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "Early-Career Tips From Our MJ Bear Fellows",
+    "track": "Career Building Track",
+    "date": "Thursday – 2:00 PM – 3:00 PM",
+    "location": "Maryland C",
+    "hashtag": "#mjbearfellows",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "The New Engagement Model [Sponsored - Chartbeat]",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Thursday – 2:00 PM – 3:00 PM",
+    "location": "Virginia A+B",
+    "hashtag": "#ONA17attn",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session": "We're ~Journalists~ Too: Embracing Your New(ish) Newsroom Role",
+    "track": "Career Building Track",
+    "date": "Thursday – 2:00 PM – 3:00 PM",
+    "location": "Delaware Suite",
+    "hashtag": "#ONA17roles",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["2:00 PM", "3:00 PM"]
+  },
+  {
+    "session":
+      "Getting the Most Out of Your Content: Maximizing the Value of Your Journalism with Fewer Resources in a Multi-Platform World [Midway]",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Thursday – 1:00 PM – 2:00 PM",
+    "location": "Washington 6",
+    "hashtag": "#ONA17MW",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["1:00 PM", "2:00 PM"]
+  },
+  {
+    "session":
+      "#TwitterForNews: Optimizing for Reach, Revenue & Innovation [Sponsored]",
+    "track": "Audience Engagement + Analytics Track",
+    "date": "Thursday – 12:30 PM – 1:30 PM",
+    "location": "Virginia A+B",
+    "hashtag": "#ONA17twitter",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["12:30 PM", "1:30 PM"]
+  },
+  {
+    "session":
+      "Deep Dive into Immersive Journalism: Learn How, Why, and Best Practices [Midway]",
+    "track": "Audio, Video, Photo + Immersive Track",
+    "date": "Thursday – 12:00 PM – 1:00 PM",
+    "location": "Washington 6",
+    "hashtag": "#ONA17mw",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["12:00 PM", "1:00 PM"]
+  },
+  {
+    "session": "Ensuring Accessibility For News",
+    "track": "Developer Tools + Tech Track",
+    "date": "Thursday – 11:00 AM – 12:00 PM",
+    "location": "Maryland C",
+    "hashtag": "#ONA17access",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Building Trust in Online Communities",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday – 11:00 AM – 12:00 PM",
+    "location": "Maryland A+B",
+    "hashtag": "#ONA17trust",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Wonder Women, Unite! Navigating the Digital Workplace",
+    "track": "Career Building Track",
+    "date": "Thursday – 11:00 AM – 12:00 PM",
+    "location": "Delaware Suite",
+    "hashtag": "#ONA17women",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "session":
+      "Local Podcasting: Best Practices and New Opportunities for Small Teams",
+    "track": "Audio, Video, Photo + Immersive Track",
+    "date": "Thursday – 11:00 AM – 12:00 PM",
+    "location": "Washington 5",
+    "hashtag": "#ONA17podcast",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Expert Interview Advice from David A. Fahrenthold",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday – 11:00 AM – 12:00 PM",
+    "location": "Marriott Ballroom Salon 3",
+    "hashtag": "#ONA17interview",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Everything You Need to Code, You Learned in Kindergarten",
+    "track": "Developer Tools + Tech Track",
+    "date": "Thursday – 11:00 AM – 12:00 PM",
+    "location": "Washington 1",
+    "hashtag": "#ONA17code",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "session":
+      "Fact Checking: One Year Into the Fact Check Markup, and Just Getting Started [Sponsored - Google]",
+    "track": "Newsgathering Tools + Techniques Track",
+    "date": "Thursday – 11:00 AM – 12:00 PM",
+    "location": "Virginia A+B",
+    "hashtag": "#ONA17factcheck",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "Building Great Newsletters and Email Tools",
+    "track": "Mobile Tools + Design Track",
+    "date": "Thursday – 11:00 AM – 12:00 PM",
+    "location": "Washington 2",
+    "hashtag": "#ONA17NL",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["11:00 AM", "12:00 PM"]
+  },
+  {
+    "session": "KEYNOTE: Trust, Truth and Questions for the Media",
+    "track": "Keynote Track",
+    "date": "Thursday – 9:30 AM – 10:30 AM",
+    "location": "Marriott Ballroom Salons 1-3",
+    "hashtag": "#ONA17keynote",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["9:30 AM", "10:30 AM"]
+  },
+  {
+    "session": "You're #1: First Timers' Orientation",
+    "track": "Career Building Track",
+    "date": "Thursday – 8:00 AM – 8:45 AM",
+    "location": "Maryland Suite",
+    "hashtag": "#1stONA",
+    "edition": "2017",
+    "day": "Thursday",
+    "hours": ["8:00 AM", "8:45 AM"]
+  }
+]
