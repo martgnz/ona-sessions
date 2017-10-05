@@ -9,7 +9,7 @@ const ScrapeONA07 = function(url, edition) {
       .get(url)
       .find(".article p a")
       .set({ link: "@href" })
-      .set("title")
+      .set("session")
       .data(d => {
         d.edition = edition;
         sessions.push(d);

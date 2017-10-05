@@ -72,11 +72,20 @@ const ScrapeONA07 = require("./scrapers/ona07");
 //   })
 // );
 
-ScrapeONA07(
-  "https://journalists.org/2007conference/archives/000740.php",
-  "2007"
-).then(data =>
-  fs.writeFile("data/ona07.json", JSON.stringify(data), function(err) {
-    console.log("ONA07 successfully written 👌");
-  })
-);
+// ScrapeONA07(
+//   "https://journalists.org/2007conference/archives/000740.php",
+//   "2007"
+// ).then(data =>
+//   fs.writeFile("data/ona07.json", JSON.stringify(data), function(err) {
+//     console.log("ONA07 successfully written 👌");
+//   })
+// );
+//
+// ScrapeONA07(
+//   "https://journalists.org/2006conference/archives/000586.php",
+//   "2006"
+// ).then(data =>
+//   fs.writeFile("data/ona06.json", JSON.stringify(data), function(err) {
+//     console.log("ONA06 successfully written 👌");
+//   })
+// );
