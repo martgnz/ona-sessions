@@ -4,6 +4,7 @@ const ScrapeONA12 = require("./scrapers/ona12");
 const ScrapeONA11 = require("./scrapers/ona11");
 const ScrapeONA10 = require("./scrapers/ona10");
 const ScrapeONA08 = require("./scrapers/ona08");
+const ScrapeONA07 = require("./scrapers/ona07");
 
 // ScrapeONA("https://ona17.journalists.org/sessions/", "2017").then(data =>
 //   fs.writeFile("data/ona17.json", JSON.stringify(data), function(err) {
@@ -62,11 +63,20 @@ const ScrapeONA08 = require("./scrapers/ona08");
 //   })
 // );
 
-ScrapeONA08(
-  "https://journalists.org/2008conference/archives/001203.php",
-  "2008"
+// ScrapeONA08(
+//   "https://journalists.org/2008conference/archives/001203.php",
+//   "2008"
+// ).then(data =>
+//   fs.writeFile("data/ona08.json", JSON.stringify(data), function(err) {
+//     console.log("ONA08 successfully written 👌");
+//   })
+// );
+
+ScrapeONA07(
+  "https://journalists.org/2007conference/archives/000740.php",
+  "2007"
 ).then(data =>
-  fs.writeFile("data/ona08.json", JSON.stringify(data), function(err) {
-    console.log("ONA08 successfully written 👌");
+  fs.writeFile("data/ona07.json", JSON.stringify(data), function(err) {
+    console.log("ONA07 successfully written 👌");
   })
 );
