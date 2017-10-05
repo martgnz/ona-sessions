@@ -9,7 +9,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "jsdom": "^11.3.0",
     "osmosis": "^1.1.4"
   }
 }
