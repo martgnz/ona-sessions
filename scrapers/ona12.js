@@ -1,6 +1,6 @@
 const osmosis = require("osmosis");
 
-const ScrapeONA12 = function(url, postSelector, edition) {
+const ScrapeONA12 = function(url, edition) {
   return new Promise((resolve, reject) => {
     let sessions = [];
 
