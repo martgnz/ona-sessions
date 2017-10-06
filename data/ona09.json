@@ -1,0 +1,47 @@
+[
+  { "session": "Opening Night Reception" },
+  { "session": "Registration" },
+  { "session": "Continental Breakfast" },
+  { "session": "ONA09 Student Newsroom" },
+  { "session": "Keynote: Evan Williams, Founder/CEO, Twitter (#ONAkey)" },
+  { "session": "Yep, Text Still Matters (#ONAstory)" },
+  { "session": "Finding Meaning in the Metrics (#ONAmtrx)" },
+  { "session": "Ten Tech Trends You’ve Still Never Heard Of (#ONAtech)" },
+  { "session": "Give Your Content Love ‘Handles’ (#ONAluv)" },
+  { "session": "Your Audience, Your Advantage (#ONAmtrx)" },
+  { "session": "Enterprising with Twitter (#ONAtw)" },
+  {
+    "session":
+      "Keynote: ‘Lunch with Leo,’ Leo Laporte, Host, This Week in Tech (#ONAkey)"
+  },
+  { "session": "It’s Data-Hunting Season (#ONAdata)" },
+  { "session": "The Legal Panel (#ONAlaw)" },
+  { "session": "Producing Content with Your Phone (#ONAgo)" },
+  { "session": "Covering the Economic Collapse (#ONAecon)" },
+  { "session": "6 in 60 (#ONA660)" },
+  { "session": "From Flip to Web Via iMovie (#ONAvideo)" },
+  {
+    "session":
+      "Networking Event:\nRiding the Media Tsunami (For Fun and Profit) (#ONAkey)"
+  },
+  { "session": "Registration" },
+  { "session": "ONA09 Student Newsroom" },
+  { "session": "Keynote: Lisa Stone, Founder/CEO, BlogHer (#ONAkey)" },
+  { "session": "Journalism for – and from – the Mobile Generation (#ONAgo)" },
+  { "session": "From Journalist to Entrepreneur (#ONAbiz)" },
+  { "session": "Live Streaming (#ONAlive)" },
+  { "session": "Social Media Mania (#ONAluv)" },
+  { "session": "Outwit the Algorithms (#ONAseo)" },
+  { "session": "Dynamic Content Mapping (#ONAmap)" },
+  { "session": "You Invent It, They Fund It (#ONAkf)" },
+  { "session": "The State of Global Innovation (#ONAworld)" },
+  { "session": "Un-Conference Sessions" },
+  { "session": "Design Solutions from News Experts (#ONAux)" },
+  { "session": "Can the Semantic Web Really Save your Site? (#ONAlinks)" },
+  { "session": "How to Handle Text and Spreadsheets (#ONAxml)" },
+  { "session": "Video Free-for-All (#ONAvid)" },
+  { "session": "How to Stop Worrying and Love your CMS (#ONAcms)" },
+  { "session": "Four Cool New Web Tools for Journalists (#ONAtools)" },
+  { "session": "Online Journalism Awards Reception" },
+  { "session": "Online Journalism Awards Banquet (#ONAoja)" }
+]

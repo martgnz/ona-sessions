@@ -4,6 +4,7 @@ const ScrapeONA12 = require("./scrapers/ona12");
 const ScrapeONA11 = require("./scrapers/ona11");
 const ScrapeONA10 = require("./scrapers/ona10");
 const ScrapeONA08 = require("./scrapers/ona08");
+const ScrapeONA09 = require("./scrapers/ona09");
 const ScrapeONA07 = require("./scrapers/ona07");
 
 // ScrapeONA("https://ona17.journalists.org/sessions/", "2017").then(data =>
@@ -40,14 +41,14 @@ const ScrapeONA07 = require("./scrapers/ona07");
 //   })
 // );
 
-ScrapeONA11(
-  "https://web.archive.org/web/20110930161350/https://ona11.journalists.org/sessions/",
-  "2011"
-).then(data => {
-  return fs.writeFile("data/ona11.json", JSON.stringify(data), function(err) {
-    console.log("ONA11 successfully written 👌");
-  });
-});
+// ScrapeONA11(
+//   "https://web.archive.org/web/20110930161350/https://ona11.journalists.org/sessions/",
+//   "2011"
+// ).then(data => {
+//   return fs.writeFile("data/ona11.json", JSON.stringify(data), function(err) {
+//     console.log("ONA11 successfully written 👌");
+//   });
+// });
 
 // ScrapeONA10("https://ona2010.sched.com/", "2010").then(data =>
 //   fs.writeFile("data/ona10.json", JSON.stringify(data), function(err) {
@@ -55,11 +56,14 @@ ScrapeONA11(
 //   })
 // );
 
-// ScrapeONA09("", "2009").then(data =>
-//   fs.writeFile("data/ona09.json", JSON.stringify(data), function(err) {
-//     console.log("ONA09 successfully written 👌");
-//   })
-// );
+ScrapeONA09(
+  "https://web.archive.org/web/20091004015401/http://conference.journalists.org/2009conference/schedule/",
+  "2009"
+).then(data =>
+  fs.writeFile("data/ona09.json", JSON.stringify(data), function(err) {
+    console.log("ONA09 successfully written 👌");
+  })
+);
 
 // ScrapeONA08(
 //   "https://journalists.org/2008conference/archives/001203.php",
