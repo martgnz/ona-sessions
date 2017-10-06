@@ -6,11 +6,11 @@ const ScrapeONA10 = require("./scrapers/ona10");
 const ScrapeONA08 = require("./scrapers/ona08");
 const ScrapeONA07 = require("./scrapers/ona07");
 
-// ScrapeONA("https://ona17.journalists.org/sessions/", "2017").then(data =>
-//   fs.writeFile("data/ona17.json", JSON.stringify(data), function(err) {
-//     console.log("ONA17 successfully written 👌");
-//   })
-// );
+ScrapeONA("https://ona17.journalists.org/sessions/", "2017").then(data =>
+  fs.writeFile("data/ona17.json", JSON.stringify(data), function(err) {
+    console.log("ONA17 successfully written 👌");
+  })
+);
 
 // ScrapeONA("https://ona16.journalists.org/sessions/", "2016").then(data =>
 //   fs.writeFile("data/ona16.json", JSON.stringify(data), function(err) {
