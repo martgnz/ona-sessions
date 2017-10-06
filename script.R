@@ -28,11 +28,10 @@ write_csv(select(shuffle, -hours), "data/data.csv", na = "")
 gs <- gs_url("https://docs.google.com/spreadsheets/d/1A6XDsmHAVk_gC3Uudx8jBZvci66VLXQ-bqSxpj00jnM")
 gs_df <- gs_read(gs)
 
-gs_df <- separate_rows(gs_df, categories, sep = ", ")
-
-
 ggplot(gs_df, aes(edition)) +
   geom_bar(stat = 'count') +
-  facet_wrap(~categories)
+  facet_wrap(~top_cat)
+
+group_by(gs_df, top_cat)
 
 write_csv(gs_df, "data/categorised.csv")

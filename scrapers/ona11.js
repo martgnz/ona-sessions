@@ -6,21 +6,10 @@ const ScrapeONA11 = function(url, edition) {
 
     osmosis
       .get(url)
-      .find(".session-location a")
-      .set("location")
-      .find(".session-type a")
-      .set("track")
-      .find(".session-title a")
+      .find(".session-title > a")
       .set({ link: "@href" })
-      .follow("@href")
-      .find(".session-title")
+      .find(".session-title > a")
       .set("session")
-      .find(".session-when")
-      .set("date")
-      .filter("node():not(:contains('When:'))")
-      .find(".session-where")
-      .set("location")
-      .filter("node():not(:contains('Where:'))")
       .data(d => {
         d.edition = edition;
         sessions.push(d);
