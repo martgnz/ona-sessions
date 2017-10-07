@@ -7,8 +7,6 @@ const ScrapeONA11 = function(url, edition) {
     osmosis
       .get(url)
       .find(".session-title > a")
-      .set({ link: "@href" })
-      .find(".session-title > a")
       .set("session")
       .data(d => {
         d.edition = edition;
