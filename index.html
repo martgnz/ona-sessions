@@ -3,19 +3,17 @@
 <head>
 <meta charset="utf-8">
 <title></title>
-<link href="https://fonts.googleapis.com/css?family=PT+Serif:400i,700i" rel="stylesheet">
 <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
 
 <style>
 body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   max-width: 750px;
-  font-family: 'PT Serif', Georgia, serif;
 }
 svg {
   overflow: visible;
 }
 .x.axis {
-  /*font-family: 'PT Serif', Georgia, serif;*/
 }
 .x.axis .domain {
   /*stroke: #ccc;*/
@@ -27,9 +25,16 @@ svg {
 .label {
   fill: #222;
   font-size: 13px;
-  font-style: italic;
-  font-weight: 700;
+  font-weight: 600;
   text-transform: capitalize;
+}
+.point {
+  font-size: 10px;
+  font-style: normal;
+  text-shadow: -1px -1px 1px #ffffff, -1px 0px 1px #ffffff, -1px 1px 1px #ffffff, 0px -1px 1px #ffffff, 0px 1px 1px #ffffff, 1px -1px 1px #ffffff, 1px 0px 1px #ffffff, 1px 1px 1px #ffffff;
+}
+.chart-future-trends .point {
+  transform: translate(20px, 10px);
 }
 .chart-tech .label {
   transform: translate(-20px, -20px);
@@ -48,9 +53,10 @@ svg {
   
 <script type="text/javascript">
 var parseYear = d3.timeParse("%Y");
+var format = d3.format(".2");
 
 var margin = { top: 20, right: 20, bottom: 20, left: 10 },
-  width = 160 - margin.left - margin.right,
+  width = 120 - margin.left - margin.right,
   height = 200 - margin.top - margin.bottom;
 
 var x = d3.scaleTime().range([0, width]);
@@ -121,6 +127,32 @@ d3.csv("data/chart.csv", type, function(error, data) {
     .attr("stroke-linecap", "round")
     .attr("stroke-width", 1.5)
     .attr("d", line);
+
+  svg
+    .append("text")
+    .datum((d, i) => {
+      return d.values;
+    })
+    .attr("class", "point")
+    .attr("x", d => x(d[0].edition))
+    .attr("y", d => y(d[0].pct))
+    .attr("dy", -5)
+    .attr("dx", 5)
+    .attr("text-anchor", "middle")
+    .text(d => `${format(d[0].pct)}%`);
+
+  svg
+    .append("text")
+    .datum((d, i) => {
+      return d.values;
+    })
+    .attr("class", "point")
+    .attr("x", d => x(d[1].edition))
+    .attr("y", d => y(d[1].pct))
+    .attr("dy", -5)
+    .attr("dx", 5)
+    .attr("text-anchor", "middle")
+    .text(d => `${format(d[1].pct)}%`);
 
   svg
     .append("g")
