@@ -3,40 +3,135 @@
 <head>
 <meta charset="utf-8">
 <title></title>
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:400i,700i" rel="stylesheet">
 <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+
+<style>
+body {
+  max-width: 750px;
+  font-family: 'PT Serif', Georgia, serif;
+}
+svg {
+  overflow: visible;
+}
+.x.axis {
+  /*font-family: 'PT Serif', Georgia, serif;*/
+}
+.x.axis .domain {
+  /*stroke: #ccc;*/
+  /*display: none;*/
+}
+.x.axis .tick line {
+  display: none;
+}
+.label {
+  fill: #222;
+  font-size: 13px;
+  font-style: italic;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.chart-tech .label {
+  transform: translate(-20px, -20px);
+}
+.chart-audience .label {
+  transform: translate(-20px, 0);
+}
+.chart-business .label {
+  transform: translate(0, -10px);
+}
+</style>
 </head>
 <body>
+
 <div class="graphic"></div>
   
 <script type="text/javascript">
 var parseYear = d3.timeParse("%Y");
 
-var margin = { top: 20, right: 10, bottom: 20, left: 10 },
-  width = 960 - margin.left - margin.right,
-  height = 500 - margin.top - margin.bottom;
+var margin = { top: 20, right: 20, bottom: 20, left: 10 },
+  width = 160 - margin.left - margin.right,
+  height = 200 - margin.top - margin.bottom;
 
 var x = d3.scaleTime().range([0, width]);
 
+var xAxis = d3
+  .axisBottom(x)
+  .tickValues([new Date(2006, 0, 1), new Date(2017, 0, 1)]);
+
 var y = d3
   .scaleLinear()
-  .domain([0, 1])
+  .domain([0, 17])
   .range([height, 0]);
 
-var xAxis = d3.axisTop(x).ticks(6);
+var color = d3
+  .scaleLinear()
+  .range(["#ca0020", "#0571b0"])
+  .domain([-10, 10])
+  .interpolate(d3.interpolateHcl);
 
-var svg = d3
-  .select(".graphic")
-  .append("svg")
-  .attr("width", width + margin.left + margin.right)
-  .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+var line = d3
+  .line()
+  .x(d => x(d.edition))
+  .y(d => y(d.pct));
 
-d3.csv("data/chart.csv", type, function(error, data) {});
+d3.csv("data/chart.csv", type, function(error, data) {
+  x.domain(d3.extent(data, d => d.edition));
+
+  var nest = d3
+    .nest()
+    .key(d => d.categories)
+    .entries(data);
+
+  nest.forEach(d => {
+    d.values[0].diff = d.values[1].pct - d.values[0].pct;
+    d.values[1].diff = d.values[1].pct - d.values[0].pct;
+  });
+
+  var sorted = nest.sort((a, b) => b.values[0].diff - a.values[0].diff);
+
+  var svg = d3
+    .select(".graphic")
+    .selectAll("svg")
+    .data(nest)
+    .enter()
+    .append("svg")
+    .attr("class", d => `chart-${d.key}`)
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  svg
+    .append("text")
+    .attr("class", "label")
+    .attr("x", width / 2)
+    .attr("y", y(10))
+    .attr("text-anchor", "middle")
+    .text(d => d.key);
+
+  svg
+    .append("path")
+    .datum((d, i) => {
+      return d.values;
+    })
+    .attr("fill", "none")
+    .attr("stroke", d => color(d[0].diff))
+    .attr("stroke-linejoin", "round")
+    .attr("stroke-linecap", "round")
+    .attr("stroke-width", 1.5)
+    .attr("d", line);
+
+  svg
+    .append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(" + 0 + "," + height + ")")
+    .call(xAxis);
+});
 
 function type(d) {
   d.pct = +d.pct;
-  // d.edition = parseYear(d.edition);
+  d.edition = parseYear(d.edition);
 
   return d;
 }
